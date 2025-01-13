@@ -1,0 +1,4041 @@
+=== CHROME DATA EXTRACTION ===
+
+=== PASSWORDS & AUTOFILL DATA ===
+URL: https://account.garena.com/
+Username Field: 
+Username: epic-171147
+Password Field: 
+Password: @Epic171147
+Created: 2024-01-10 14:55:04.399249
+Times Used: 6
+--------------------------------------------------
+URL: https://shopthaygiaolq.com/register
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: password
+Password: nhSbHZdZr5phs@Y
+Created: 2022-02-20 19:26:59.638838
+Times Used: 6
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic1711477554
+Created: 2022-04-07 05:38:29.622000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2019-09-08 13:14:25.672896
+--------------------------------------------------
+URL: https://www.facebook.com/login.php
+Username Field: email
+Username: 0995211914
+Password Field: pass
+Password: epicslayer171147
+Created: 2018-08-18 05:31:32.009434
+Times Used: 12
+--------------------------------------------------
+URL: https://timhieuphapluat.dongnai.gov.vn/login/
+Username Field: inputUserName
+Username: 0943393945
+Password Field: inputPassword
+Password: epic171147
+Created: 2021-05-02 06:15:07.381654
+Times Used: 12
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: ozen7554
+Created: 2022-03-30 06:40:03.923750
+Times Used: 15
+--------------------------------------------------
+URL: https://shopdangym.net/register
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: 171147epic
+Created: 2022-03-30 01:14:10.004731
+Times Used: 1
+--------------------------------------------------
+URL: https://api.twitter.com/oauth/authorize
+Username Field: session[username_or_email]
+Username: nikto78358556@gmail.com
+Password Field: session[password]
+Password: nikto7554
+Created: 2024-02-23 17:35:11.919903
+Times Used: 1
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: 
+Username: nikto78358556@gmail.com
+Password Field: 
+Password: ozen7554
+Created: 2024-08-01 16:09:00.400000
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: 
+Username: darknikto123
+Password Field: 
+Password: nikto171147
+Created: 2023-09-05 11:07:58.327226
+Times Used: 3
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: epicvn61
+Password Field: 
+Password: epichitle7554
+Created: 2022-04-18 15:55:34.480000
+--------------------------------------------------
+URL: https://mobile.twitter.com/
+Username Field: 
+Username: Epic65044216
+Password Field: 
+Password: epic171147
+Created: 2020-10-24 18:10:11.119632
+--------------------------------------------------
+URL: android://fq-opD74VNuY8ra3uPus_5196jPAWkv58e5NLGY2NVpWlP5D1soLD14ppT6Faz7u_HAAXbknFYhEo6ebyQjpnQ==@com.netease.wxzc/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: 171147
+Created: 2020-01-21 12:17:29.567000
+--------------------------------------------------
+URL: https://androidpornapk.com/dashboard/login
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: password
+Password: epic171147
+Created: 2023-07-17 17:08:06.162474
+Times Used: 4
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/index.php
+Username Field: wpName
+Username: nikto
+Password Field: wpPassword
+Password: W8C23aAHzzfbicD
+Created: 2023-06-17 09:08:45.996707
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register/1
+Username Field: 
+Username: 8403381178
+Password Field: 
+Password: HtSVFtcYx343cBu
+Created: 2021-11-09 08:43:43.635174
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: 
+Username: nikto
+Password Field: 
+Password: g0e$Lv9yEV5WJ-A
+Created: 2023-08-06 15:17:36.626000
+--------------------------------------------------
+URL: https://platinmods.com/register/
+Username Field: 3637387440bcee49b16b1470547243c8cf2735f9
+Username: ozen171
+Password Field: f80566d9ef63298c8afa35a8e3cd37c4839a68f0
+Password: 8HD_@JSPxUPw?bE
+Created: 2024-10-13 17:53:54.911490
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: pass
+Password: @ozen.171
+Created: 2024-03-11 16:11:36.609292
+Times Used: 12
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: 
+Username: 0913176195
+Password Field: 
+Password: epic7554171147
+Created: 2022-09-08 13:13:31.382000
+--------------------------------------------------
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username Field: identifier
+Username: epicvn61@gmail.com
+Password Field: Passwd
+Password: epicslayer171147
+Created: 2023-12-29 13:43:44.598540
+--------------------------------------------------
+URL: https://sso.pokemon.com/sso/login
+Username Field: username
+Username: epic7554
+Password Field: password
+Password: RGfPK-N6a_._M.k
+Created: 2024-01-13 03:09:42.598180
+Times Used: 1
+--------------------------------------------------
+URL: https://shopmuarobux.com/Auth/Login
+Username Field: username
+Username: epic-nikto
+Password Field: password
+Password: 1711477554
+Created: 2022-11-30 11:29:47.968230
+--------------------------------------------------
+URL: https://nhanquacod.com/yrujK1NAulCYaCIkabGUQ7CI9b3QUqaeiBKTLI2lelxTPfuFCm7LhfYmck13CAEtjIZp4hGnPZwHElPAKt6aXY3Rxv8XyTtyt38VWrEbOqgGa65lTjB0i3GJDGgcE5JStm16UEJL28pOr8U0Tipwe1E1URK4uedwV4hGS74MV8y8RzvdUWykUEYtsbT04QnTZxol6gJCQlCisYL14Ry7ufoSUmRaiKKLYGomXptREXEqBEchaSrgIU7b1S
+Username Field: username
+Username: 0913176195
+Password Field: password
+Password: epic171147
+Created: 2020-09-15 13:33:39.777085
+--------------------------------------------------
+URL: https://mobile.twitter.com/login
+Username Field: session[username_or_email]
+Username: epicvn61@gmail.com
+Password Field: session[password]
+Password: 171147
+Created: 2020-10-24 18:07:27.333343
+Times Used: 5
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2019-08-03 13:25:37.703000
+--------------------------------------------------
+URL: https://hentaihvn.tv/login.php
+Username Field: gmail_login
+Username: nikto78358556@gmail.com
+Password Field: password
+Password: ozen171
+Created: 2024-11-24 23:50:19.486270
+--------------------------------------------------
+URL: https://www.gachthe1s.com/account/login
+Username Field: username
+Username: Epicgalion
+Password Field: password
+Password: @gduFxuy2aiNvxs
+Created: 2023-05-04 10:36:47.557407
+Times Used: 2
+--------------------------------------------------
+URL: android://HsGSeJ26pkVma_XR_3sN4Mh_roN3qGjY6e4Pqj2k7McSTuvcyQERrq53mIJChBxmOu53B36XlZnSQzXT1VBXfw==@com.silverstarstudio.angellegion/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: 171147
+Created: 2021-02-03 10:31:41.684000
+--------------------------------------------------
+URL: https://account.mihoyo.com/
+Username Field: 
+Username: 906113
+Password Field: 
+Password: epicgalion7554171147
+Created: 2022-09-13 05:26:19.648265
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: 
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: 
+Password: mT0S$3BbKaFz6PO
+Created: 2023-03-13 07:35:29.280000
+Times Used: 2
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: 
+Username: epic
+Password Field: 
+Password: GA-K1ibUh_TLP3s
+Created: 2024-01-10 10:48:18.388000
+--------------------------------------------------
+URL: android://79xEc7TXh3cNp5rV9kci8i6AYyfPq8BmRomGIiNpLtXCAx3qy5RICnOQLbMJaQ1UNGV_N7sSK1dLpTmEZQ8csg==@com.spotify.music/
+Username Field: 
+Username: Huỳnh Trí
+Password Field: 
+Password: 
+Created: 2025-01-13 21:49:13.025959
+--------------------------------------------------
+URL: https://authgop.garena.com/oauth/login
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: @Epic171147
+Created: 2022-02-18 12:10:48.780999
+Times Used: 43
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register
+Username Field: 
+Username: 0843381178
+Password Field: 
+Password: HtSVFtcYx343cBu
+Created: 2021-12-07 09:18:01.232694
+Times Used: 1
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: 
+Username: 0995211914
+Password Field: 
+Password: epicslayer171147
+Created: 2021-07-02 10:47:25.092000
+Times Used: 1
+--------------------------------------------------
+URL: https://luanvan.co/dang-ky/
+Username Field: ctl00$cphMain$ucRegister1$txtUserName
+Username: HMTri
+Password Field: ctl00$cphMain$ucRegister1$txtPassword
+Password: #A8Fw$2wx7hdUrG
+Created: 2024-06-13 01:23:42.193020
+Times Used: 1
+--------------------------------------------------
+URL: https://us.account.samsung.com/accounts/odchb/changePassword
+Username Field: 
+Username: 
+Password Field: password
+Password: %)e5t:sG".7ehzU
+Created: 2021-06-01 15:26:05.435645
+--------------------------------------------------
+URL: https://tlauncher.org/en/reg/
+Username Field: login
+Username: nikto
+Password Field: 
+Password: H$%Wiys62bCj'#^
+Created: 2023-07-15 05:33:51.533790
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: 
+Username: ni
+Password Field: 
+Password: X7kvxZuW5m6L:XT
+Created: 2023-11-02 08:34:10.370090
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.android.vending/
+Username Field: 
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: 
+Password: epicslayer171147
+Created: 2023-07-06 00:06:19.050000
+--------------------------------------------------
+URL: android://jog2cBSF0MvpSIvjMGj-p1Ce7nqcggocl0u56pKoxcSpVybemhk1OvwHakYrx9OL44IK6n676voganY5qu311Q==@com.goddessidle.global.android/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epicslayer171147
+Created: 2022-10-01 16:52:21.520000
+--------------------------------------------------
+URL: https://www.instagram.com/accounts/password/reset/confirm/
+Username Field: 
+Username: 
+Password Field: 
+Password: epic1711477554
+Created: 2023-12-11 14:03:03.401726
+Times Used: 1
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: 
+Username: Epicmega
+Password Field: 
+Password: epicmega
+Created: 2020-02-08 04:03:32.516000
+--------------------------------------------------
+URL: https://gachthe1s.com/account/register
+Username Field: username
+Username: Epicgalion
+Password Field: password
+Password: @gduFxuy2aiNvxs
+Created: 2022-10-20 20:06:00.438440
+Times Used: 5
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/create-account
+Username Field: Input_DisplayName
+Username: Epic
+Password Field: Input_ConfirmPasswordVal
+Password: 8y@sMfUD8k97HkP
+Created: 2022-09-14 18:23:03.998666
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.mlite/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic7554galion171147
+Created: 2022-10-15 03:37:10.299000
+--------------------------------------------------
+URL: https://online.hcmute.edu.vn/
+Username Field: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtUserName
+Username: 23810079
+Password Field: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtPassword
+Password: 3055DC
+Created: 2024-05-31 15:10:49.045315
+--------------------------------------------------
+URL: https://shub.edu.vn/signup/form
+Username Field: phone
+Username: 0843391178
+Password Field: password
+Password: epicqt19tc31
+Created: 2021-10-20 07:02:58.074277
+Times Used: 1
+--------------------------------------------------
+URL: https://www.facebook.com/login.php
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: pass
+Password: @ozen.171
+Created: 2024-03-06 11:21:08.727060
+Times Used: 27
+--------------------------------------------------
+URL: https://auth.garena.com/oauth/login
+Username Field: username
+Username: epic-galion
+Password Field: password
+Password: @Ozen.171147
+Created: 2022-04-11 07:16:13.402609
+Times Used: 15
+--------------------------------------------------
+URL: https://kr.battle.net/login/en/
+Username Field: accountName
+Username: epicvn61@gmail.com
+Password Field: password
+Password: epicgalion171147
+Created: 2021-11-09 08:27:50.860748
+--------------------------------------------------
+URL: https://auth.riotgames.com/login
+Username Field: 
+Username: darknikto123
+Password Field: 
+Password: nikto171147
+Created: 2023-06-01 14:10:22.985807
+Times Used: 1
+--------------------------------------------------
+URL: https://account.garena.com/recovery
+Username Field: 
+Username: 
+Password Field: 
+Password: @Tk55.670
+Created: 2024-01-10 15:02:11.921779
+Times Used: 3
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: 
+Username: darknikto123
+Password Field: 
+Password: nikto171147
+Created: 2023-06-01 14:09:03.530398
+--------------------------------------------------
+URL: https://sso.garena.com/ui/login
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: @Epic171147
+Created: 2022-07-15 13:55:19.606684
+Times Used: 7
+--------------------------------------------------
+URL: https://accounts.google.com/signin/v2/challenge/pwd
+Username Field: identifier
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: password
+Password: scp69mega
+Created: 2019-07-07 15:13:51.232105
+--------------------------------------------------
+URL: https://tlauncher.org/en/reg/
+Username Field: login
+Username: nikto7554
+Password Field: psw
+Password: H$%Wiys62bCj'#^
+Created: 2023-07-15 05:34:42.348947
+Times Used: 2
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: 
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: 
+Password: ZDo_Yds9L4vrPBJ
+Created: 2023-03-21 16:12:13.878000
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: 171147epic
+Created: 2022-10-09 11:41:03.391000
+--------------------------------------------------
+URL: https://tuananh4g.com/index.php
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic171147
+Created: 2022-12-15 11:43:47.539055
+Times Used: 1
+--------------------------------------------------
+URL: https://id.cisco.com/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2022-01-18 01:27:05.032132
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/Pages/Sims/SummaryScheduleOfClass.aspx
+Username Field: ctl00$uTopMenu$uMemberArea$ctrlLogin$txtUserName
+Username: QT22CD1113
+Password Field: ctl00$uTopMenu$uMemberArea$ctrlLogin$txtPassword
+Password: 02032004
+Created: 2023-02-22 12:34:53.996266
+Times Used: 11
+--------------------------------------------------
+URL: android://dV9EIDUsvfc2AkDEKoB-POOhfB9TNVp0J3a12sXvW_c5mk_mYozXxY17Vh6U05klmWQT3kQO5eepBrHDwQ0uYw==@com.deviantart.android.damobile/
+Username Field: 
+Username: epic
+Password Field: 
+Password: scp69mega
+Created: 2019-07-10 12:42:07.590000
+--------------------------------------------------
+URL: https://sso.garena.com/ui/login
+Username Field: username
+Username: epic-galion
+Password Field: password
+Password: @Ozen.171147
+Created: 2022-04-03 10:53:54.493117
+Times Used: 11
+--------------------------------------------------
+URL: http://thisinh.thitotnghiepthpt.edu.vn/Account/Login
+Username Field: UserName
+Username: 075204011297
+Password Field: Code
+Password: Epicnikto171147@
+Created: 2023-07-18 02:01:58.984374
+Times Used: 23
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: 
+Username: TK.7554
+Password Field: 
+Password: @Tk.7554
+Created: 2023-11-02 14:01:13.071598
+Times Used: 3
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: epic-171147
+Password Field: 
+Password: epicgalion7554
+Created: 2023-01-03 02:09:57.315000
+--------------------------------------------------
+URL: https://shopdangym.com/reg.html
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: password
+Password: AGdaUxU2t2x9t
+Created: 2023-05-22 22:35:05.784883
+Times Used: 3
+--------------------------------------------------
+URL: https://azota.vn/vi/auth/login
+Username Field: 
+Username: 0961790152
+Password Field: 
+Password: minhpighi01677
+Created: 2023-10-24 12:16:30.222495
+--------------------------------------------------
+URL: android://BnX9M66KmaqmzgqWgQxmbrJB_wO0ST53-DUZCnxDdLwf4JAsUtM2kKGudjeBclJFUquAP2JTpypk9qobA6PGMA==@com.discord/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: ozen7554
+Created: 2024-10-21 15:55:06.658000
+Times Used: 1
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.google.android.gm/
+Username Field: 
+Username: ozentokyo@7554.com
+Password Field: 
+Password: ozentokyo@7554
+Created: 2024-11-29 05:20:13.212000
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: 
+Username: Epic 
+Password Field: 
+Password: 171147
+Created: 2019-12-15 07:55:48.980000
+--------------------------------------------------
+URL: https://mega.nz/confirmQ29uZmlybUNvZGVWMoOs1UA_BwAHwL4mzyZTf2VwaWN2bjYxQGdtYWlsLmNvbQl0cmkgaHV5bmiVkDIo9fvZbQ
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic171147
+Created: 2020-08-16 15:14:26.410577
+Times Used: 3
+--------------------------------------------------
+URL: https://club.pokemon.com/us/pokemon-trainer-club/parents/sign-up
+Username Field: username
+Username: epic7554
+Password Field: password
+Password: RGfPK-N6a_._M.k
+Created: 2024-01-13 03:08:30.224863
+--------------------------------------------------
+URL: android://8aFnQohvDqZXZqFwHBc1F8aKEGrwY3lrDgyxQVCzHK2O1OZneBhuUbghhmQ6Bi-_mhsApipsKJAG-6D0Aj1scg==@id.co.duniagames.android.mobafps/
+Username Field: 
+Username: epic
+Password Field: 
+Password: 171147
+Created: 2020-10-21 22:58:58.487000
+--------------------------------------------------
+URL: https://profile.callofduty.com/
+Username Field: 
+Username: ozen
+Password Field: 
+Password: woH_YrtK2d23N0G
+Created: 2024-10-19 09:54:37.100000
+--------------------------------------------------
+URL: https://sso.garena.com/universal/login
+Username Field: 
+Username: 247hahaha
+Password Field: 
+Password: symap0010
+Created: 2024-07-24 11:01:57.744833
+--------------------------------------------------
+URL: https://www.facebook.com/recover/password/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: password_new
+Password: @ozen.171
+Created: 2024-03-06 11:20:49.259954
+Times Used: 4
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2024-09-14 04:33:49.772523
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: 
+Username: epi*****@gm***.com
+Password Field: 
+Password: nikto171147
+Created: 2023-09-05 11:12:53.402436
+Times Used: 1
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: TK55.760
+Password Field: 
+Password: @Nikto171147
+Created: 2023-08-01 16:50:40.634000
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register
+Username Field: 
+Username: Huỳnh minh trí
+Password Field: 
+Password: VXv4kSXDTfrCCSr
+Created: 2022-03-16 01:20:01.125495
+--------------------------------------------------
+URL: https://club.pokemon.com/us/pokemon-trainer-club/parents/sign-up
+Username Field: username
+Username: epic
+Password Field: 
+Password: Wp8jekHE:CdvcPq
+Created: 2024-01-13 03:07:49.117645
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: email
+Username: 0995211914
+Password Field: pass
+Password: epic1711477554galion
+Created: 2019-12-07 05:08:15.666912
+Times Used: 31
+--------------------------------------------------
+URL: android://pBmM_nO60893u4X7D-CanT76SomdRzEME86TJB9BGYmSJ9fDyuZ5RAw-Do1z4Ojw5T_uV-5fU4qvcGnyraIO2w==@mega.privacy.android.app/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: EPICVN171147-THANOS€£¥₩@#$%&!
+Created: 2020-01-21 05:44:46.420000
+--------------------------------------------------
+URL: https://100054.connect.garena.com/oauth/login
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: @Epic171147
+Created: 2022-08-01 14:26:23.710519
+Times Used: 29
+--------------------------------------------------
+URL: https://account.garena.com/security/realinfo/save
+Username Field: 
+Username: 075204011297
+Password Field: 
+Password: epic7554
+Created: 2022-04-03 10:46:17.654837
+Times Used: 1
+--------------------------------------------------
+URL: https://kr.battle.net/login/en-gb/
+Username Field: 
+Username: epic
+Password Field: password
+Password: epicgalion171147
+Created: 2021-11-09 07:43:25.877777
+Times Used: 1
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: binhan-2021
+Password Field: 
+Password: an123456
+Created: 2022-06-24 12:13:28.889000
+Times Used: 1
+--------------------------------------------------
+URL: https://100054.connect.garena.com/oauth/login
+Username Field: username
+Username: epic-galion
+Password Field: password
+Password: @Ozen.171147
+Created: 2022-08-01 14:27:59.282079
+Times Used: 9
+--------------------------------------------------
+URL: https://androidpornapk.com/dashboard/login
+Username Field: email
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: password
+Password: epic171147
+Created: 2023-08-04 08:46:29.690613
+Times Used: 1
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: 1ngaykvui26
+Password Field: 
+Password: ilovewillS2
+Created: 2024-07-25 00:31:28.510000
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: 
+Username: epic
+Password Field: 
+Password: wCE4$e!3BdVIGyG
+Created: 2022-04-04 10:50:35.114000
+--------------------------------------------------
+URL: https://authgop.garena.com/universal/oauth
+Username Field: 
+Username: epic-galion
+Password Field: 
+Password: @Ozen.171147
+Created: 2024-05-30 03:09:08.033061
+Times Used: 39
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: 
+Username: TK.237
+Password Field: 
+Password: @Epic7554
+Created: 2023-11-02 08:35:34.313534
+Times Used: 2
+--------------------------------------------------
+URL: https://www.gamehubplus.com/my-account/reset-password
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: Input_PasswordVal
+Password: @TFK.ozen7554
+Created: 2024-03-10 17:48:48.706795
+Times Used: 1
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/index.php
+Username Field: wpName
+Username: Nikto
+Password Field: wpPassword
+Password: W8C23aAHzzfbicD
+Created: 2023-06-20 12:31:33.080843
+Times Used: 1
+--------------------------------------------------
+URL: https://account.battle.net/login/en/
+Username Field: accountName
+Username: epicvn61@gmail.com
+Password Field: password
+Password: epicgalion171147
+Created: 2023-11-27 10:41:45.898994
+Times Used: 3
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: thachsaphol0986
+Password Field: 
+Password: khangSon@91205
+Created: 2022-02-24 03:10:39.166000
+--------------------------------------------------
+URL: https://garena.xacminh-vn.com/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic171147
+Created: 2022-02-25 14:48:12.638000
+--------------------------------------------------
+URL: https://www.wattpad.com/oauth-auth
+Username Field: username
+Username: epic-171147
+Password Field: new_password
+Password: D?FmXGiGXHC4b!7
+Created: 2023-02-24 02:02:11.885945
+--------------------------------------------------
+URL: https://m.facebook.com/login.php
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: pass
+Password: @ozen.171
+Created: 2024-04-05 12:56:34.598674
+--------------------------------------------------
+URL: https://shopchientuong.com/register.html
+Username Field: username
+Username: epic171147
+Password Field: password
+Password: epic171147
+Created: 2022-06-05 03:23:28.314446
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: 
+Username: Epicvn61@gmail.com
+Password Field: 
+Password: epicmega
+Created: 2020-03-26 06:29:22.237000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: nikto78358556@gmail.com
+Password Field: 
+Password: epic7554
+Created: 2023-12-29 17:04:01.941000
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: 
+Username: epi*****@gm***.com
+Password Field: 
+Password: nikto171147
+Created: 2023-06-01 14:09:55.066210
+--------------------------------------------------
+URL: https://thisinh.thithptquocgia.edu.vn/Account/Login
+Username Field: UserName
+Username: 075204011297
+Password Field: Code
+Password: Epicnikto171147@
+Created: 2023-05-16 14:17:33.459878
+Times Used: 12
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: 171147
+Created: 2022-03-28 13:15:55.407559
+Times Used: 1
+--------------------------------------------------
+URL: android://GrbREhqYK5ZQg1SKPhpbwNeZ00zqV7ZLjRsQpAY5XOfeq0fjMNJV_Yw9oHx3errtbGO4t4Udf-kRZyv9VryYfg==@com.eagleheart.amanvpn/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic171147
+Created: 2022-07-02 01:53:34.315000
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2020-11-01 05:12:43.794000
+--------------------------------------------------
+URL: https://crypko.ai/en/auth/signup
+Username Field: input-89
+Username: nikto7554
+Password Field: input-92
+Password: VtKr8#hCkivR.Uq
+Created: 2023-11-20 17:57:18.151287
+--------------------------------------------------
+URL: https://www.newgrounds.com/forgotpass/01aff2add01a8401724b653367f5948683a73877/ozen7554
+Username Field: 
+Username: ozen7554
+Password Field: 
+Password: hVC4r_3+84aWHJ7
+Created: 2024-04-22 13:21:39.195495
+Times Used: 1
+--------------------------------------------------
+URL: https://sadpki-portal.ebuajk.com/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: epic7554
+Created: 2024-01-15 00:46:52.415000
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: 
+Username: 0843381178
+Password Field: 
+Password: epic171147
+Created: 2021-09-03 16:48:27.829000
+--------------------------------------------------
+URL: https://heinekensilver.vn/mat-khau-dang-nhap
+Username Field: 
+Username: 
+Password Field: password
+Password: epic171147
+Created: 2022-08-29 22:30:06.908370
+--------------------------------------------------
+URL: https://accountscenter.facebook.com/password_and_security/password/change
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: password_new
+Password: @ozen.171
+Created: 2024-08-01 08:17:37.730667
+Times Used: 1
+--------------------------------------------------
+URL: https://sso.garena.com/universal/login
+Username Field: 
+Username: TK55.760
+Password Field: 
+Password: @Nikto171147
+Created: 2023-08-01 18:39:21.295260
+Times Used: 1
+--------------------------------------------------
+URL: https://discord.com/reset
+Username Field: 
+Username: 
+Password Field: password
+Password: yD+C?ku<K#C3np[
+Created: 2021-11-01 09:02:02.829606
+Times Used: 1
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: 
+Username: epicvn61
+Password Field: 
+Password: epic1711477554
+Created: 2022-04-07 05:38:10.353000
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: 
+Username: epic-galion
+Password Field: 
+Password: @Epicgalion.7554
+Created: 2024-01-11 15:57:43.868000
+--------------------------------------------------
+URL: https://kr.account.battle.net/creation/flow/patch
+Username Field: 
+Username: epic
+Password Field: password
+Password: epicgalion171147
+Created: 2021-11-09 07:20:04.569776
+--------------------------------------------------
+URL: https://muakey.com/register
+Username Field: __BVID__14
+Username: ozen7554
+Password Field: __BVID__17
+Password: @Ozen171147
+Created: 2024-04-15 16:02:17.895542
+--------------------------------------------------
+URL: https://www.netflix.com/signup/regform
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: password
+Password: epic171147
+Created: 2024-05-14 04:26:57.287122
+Times Used: 1
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: 
+Username: nikto78358556@gmail.com
+Password Field: 
+Password: @Epic_237
+Created: 2023-11-01 17:07:50.504489
+Times Used: 3
+--------------------------------------------------
+URL: https://help.steampowered.com/fr/login/
+Username Field: accountname
+Username: epic_slayer666
+Password Field: password
+Password: ozen1711477554
+Created: 2023-06-20 04:37:46.828210
+Times Used: 6
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/Pages/Sims/SummaryScheduleOfClass.aspx
+Username Field: ctl00$uTopMenu$uMemberArea$ctrlLogin$txtUserName
+Username: QT19TC3144
+Password Field: ctl00$uTopMenu$uMemberArea$ctrlLogin$txtPassword
+Password: 02032004
+Created: 2021-11-05 09:56:47.049719
+Times Used: 99
+--------------------------------------------------
+URL: https://app.revolt.chat/login
+Username Field: email
+Username: epicvn61@gmail.com
+Password Field: password
+Password: ig$2jp%gFfXXV.@
+Created: 2024-07-15 17:35:04.922573
+Times Used: 3
+--------------------------------------------------
+URL: android://fed5Vp3qFrQy1Mp7hFONoYNyRvdJcNATS-RPbZzxNo8zCXhwwESwmoCEUe_f44ayT9cbT9c3TdR4a3B0EcdVXQ==@de.mobileconcepts.cyberghost/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: scp69mega
+Created: 2019-10-24 06:21:00.048000
+--------------------------------------------------
+URL: https://auth.garena.com/oauth/login
+Username Field: username
+Username: epic-171147
+Password Field: password
+Password: @Epic171147
+Created: 2022-03-05 16:03:59.735018
+Times Used: 45
+--------------------------------------------------
+URL: https://giftcode-lienquanmobile-vn.com/TtFXzPBb5AKG5U80dtUtT9hL3CRXKKP8mljjzYMHIfNuKL3n9c4AbrWctDbwAUqfNImViapenQORTZiNAQOMmOx0CqFE02AfIuBpF
+Username Field: username
+Username: 0995211914
+Password Field: password
+Password: epicgalion171147
+Created: 2022-01-26 09:02:59.539807
+Times Used: 2
+--------------------------------------------------
+URL: https://store.steampowered.com/join/completesignup
+Username Field: accountname
+Username: epic_slayer666
+Password Field: password
+Password: ozen1711477554
+Created: 2020-08-10 10:15:02.868189
+Times Used: 5
+--------------------------------------------------
+URL: https://auth.garena.com/universal/oauth
+Username Field: 
+Username: TK.7554
+Password Field: 
+Password: @Tk.7554
+Created: 2024-07-17 19:22:51.588693
+Times Used: 4
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: 
+Username: Epic_slayer666
+Password Field: 
+Password: epic171147
+Created: 2020-08-10 13:17:04.165000
+--------------------------------------------------
+URL: android://ilVip4JYAN8oTUfat5_K4czeDDxGsaGBaWgJ7ScFdrknGBMBMf_vQC9NKCLiNYed4ekSJNkfD0wKC1jS0rxbQw==@cm.aptoide.pt/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: scp69mega
+Created: 2019-11-01 10:17:44.756000
+--------------------------------------------------
+URL: https://quizizz.com/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2021-04-23 01:07:55.804000
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: 
+Username: 
+Password Field: 
+Password: 
+Created: 2023-08-07 18:51:26.459000
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: 
+Username: TK55.760
+Password Field: 
+Password: Tk@55.760
+Created: 2024-10-18 08:01:54.380000
+--------------------------------------------------
+URL: https://www.warframe.com/resetpassword/confirm
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: password
+Password: @ozen171147
+Created: 2024-12-06 02:28:21.967012
+Times Used: 1
+--------------------------------------------------
+URL: https://vault.bitwarden.com/
+Username Field: 
+Username: 
+Password Field: input-password-form_password
+Password: @ozen.171147
+Created: 2025-01-05 07:57:46.825605
+--------------------------------------------------
+URL: https://somee.com/doka/Identity/Account/Login
+Username Field: Input.UserID
+Username: epicvn61@gmail.com
+Password Field: Input.Password
+Password: 123456@abcde
+Created: 2025-01-08 22:59:09.967515
+Times Used: 5
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://shopthaygiaolq.com/register
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: nhSbHZdZr5phs@Y
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://www.facebook.com/login.php
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://timhieuphapluat.dongnai.gov.vn/login/
+Username Field: N/A
+Username: 0943393945
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: https://shopdangym.net/register
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: 171147epic
+--------------------------------------------------
+URL: https://api.twitter.com/oauth/authorize
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: nikto7554
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epicvn61
+Password Field: N/A
+Password: epichitle7554
+--------------------------------------------------
+URL: https://mobile.twitter.com/
+Username Field: N/A
+Username: Epic65044216
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://fq-opD74VNuY8ra3uPus_5196jPAWkv58e5NLGY2NVpWlP5D1soLD14ppT6Faz7u_HAAXbknFYhEo6ebyQjpnQ==@com.netease.wxzc/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://androidpornapk.com/dashboard/login
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/index.php
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: W8C23aAHzzfbicD
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register/1
+Username Field: N/A
+Username: 8403381178
+Password Field: N/A
+Password: HtSVFtcYx343cBu
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: g0e$Lv9yEV5WJ-A
+--------------------------------------------------
+URL: https://platinmods.com/register/
+Username Field: N/A
+Username: ozen171
+Password Field: N/A
+Password: 8HD_@JSPxUPw?bE
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 0913176195
+Password Field: N/A
+Password: epic7554171147
+--------------------------------------------------
+URL: https://accounts.google.com/v3/signin/challenge/pwd
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://sso.pokemon.com/sso/login
+Username Field: N/A
+Username: epic7554
+Password Field: N/A
+Password: RGfPK-N6a_._M.k
+--------------------------------------------------
+URL: https://shopmuarobux.com/Auth/Login
+Username Field: N/A
+Username: epic-nikto
+Password Field: N/A
+Password: 1711477554
+--------------------------------------------------
+URL: https://nhanquacod.com/yrujK1NAulCYaCIkabGUQ7CI9b3QUqaeiBKTLI2lelxTPfuFCm7LhfYmck13CAEtjIZp4hGnPZwHElPAKt6aXY3Rxv8XyTtyt38VWrEbOqgGa65lTjB0i3GJDGgcE5JStm16UEJL28pOr8U0Tipwe1E1URK4uedwV4hGS74MV8y8RzvdUWykUEYtsbT04QnTZxol6gJCQlCisYL14Ry7ufoSUmRaiKKLYGomXptREXEqBEchaSrgIU7b1S
+Username Field: N/A
+Username: 0913176195
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://mobile.twitter.com/login
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://hentaihvn.tv/login.php
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: ozen171
+--------------------------------------------------
+URL: https://www.gachthe1s.com/account/login
+Username Field: N/A
+Username: Epicgalion
+Password Field: N/A
+Password: @gduFxuy2aiNvxs
+--------------------------------------------------
+URL: android://HsGSeJ26pkVma_XR_3sN4Mh_roN3qGjY6e4Pqj2k7McSTuvcyQERrq53mIJChBxmOu53B36XlZnSQzXT1VBXfw==@com.silverstarstudio.angellegion/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://account.mihoyo.com/
+Username Field: N/A
+Username: 906113
+Password Field: N/A
+Password: epicgalion7554171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: mT0S$3BbKaFz6PO
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: GA-K1ibUh_TLP3s
+--------------------------------------------------
+URL: android://79xEc7TXh3cNp5rV9kci8i6AYyfPq8BmRomGIiNpLtXCAx3qy5RICnOQLbMJaQ1UNGV_N7sSK1dLpTmEZQ8csg==@com.spotify.music/
+Username Field: N/A
+Username: Huỳnh Trí
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://authgop.garena.com/oauth/login
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register
+Username Field: N/A
+Username: 0843381178
+Password Field: N/A
+Password: HtSVFtcYx343cBu
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://luanvan.co/dang-ky/
+Username Field: N/A
+Username: HMTri
+Password Field: N/A
+Password: #A8Fw$2wx7hdUrG
+--------------------------------------------------
+URL: https://us.account.samsung.com/accounts/odchb/changePassword
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: %)e5t:sG".7ehzU
+--------------------------------------------------
+URL: https://tlauncher.org/en/reg/
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: H$%Wiys62bCj'#^
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: N/A
+Username: ni
+Password Field: N/A
+Password: X7kvxZuW5m6L:XT
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.android.vending/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: android://jog2cBSF0MvpSIvjMGj-p1Ce7nqcggocl0u56pKoxcSpVybemhk1OvwHakYrx9OL44IK6n676voganY5qu311Q==@com.goddessidle.global.android/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://www.instagram.com/accounts/password/reset/confirm/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: N/A
+Username: Epicmega
+Password Field: N/A
+Password: epicmega
+--------------------------------------------------
+URL: https://gachthe1s.com/account/register
+Username Field: N/A
+Username: Epicgalion
+Password Field: N/A
+Password: @gduFxuy2aiNvxs
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/create-account
+Username Field: N/A
+Username: Epic
+Password Field: N/A
+Password: 8y@sMfUD8k97HkP
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.mlite/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic7554galion171147
+--------------------------------------------------
+URL: https://online.hcmute.edu.vn/
+Username Field: N/A
+Username: 23810079
+Password Field: N/A
+Password: 3055DC
+--------------------------------------------------
+URL: https://shub.edu.vn/signup/form
+Username Field: N/A
+Username: 0843391178
+Password Field: N/A
+Password: epicqt19tc31
+--------------------------------------------------
+URL: https://www.facebook.com/login.php
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://auth.garena.com/oauth/login
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://kr.battle.net/login/en/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://auth.riotgames.com/login
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://account.garena.com/recovery
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: @Tk55.670
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://sso.garena.com/ui/login
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://accounts.google.com/signin/v2/challenge/pwd
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://tlauncher.org/en/reg/
+Username Field: N/A
+Username: nikto7554
+Password Field: N/A
+Password: H$%Wiys62bCj'#^
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: ZDo_Yds9L4vrPBJ
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147epic
+--------------------------------------------------
+URL: https://tuananh4g.com/index.php
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://id.cisco.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/Pages/Sims/SummaryScheduleOfClass.aspx
+Username Field: N/A
+Username: QT22CD1113
+Password Field: N/A
+Password: 02032004
+--------------------------------------------------
+URL: android://dV9EIDUsvfc2AkDEKoB-POOhfB9TNVp0J3a12sXvW_c5mk_mYozXxY17Vh6U05klmWQT3kQO5eepBrHDwQ0uYw==@com.deviantart.android.damobile/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://sso.garena.com/ui/login
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: http://thisinh.thitotnghiepthpt.edu.vn/Account/Login
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: Epicnikto171147@
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: N/A
+Username: TK.7554
+Password Field: N/A
+Password: @Tk.7554
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: epicgalion7554
+--------------------------------------------------
+URL: https://shopdangym.com/reg.html
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: AGdaUxU2t2x9t
+--------------------------------------------------
+URL: https://azota.vn/vi/auth/login
+Username Field: N/A
+Username: 0961790152
+Password Field: N/A
+Password: minhpighi01677
+--------------------------------------------------
+URL: android://BnX9M66KmaqmzgqWgQxmbrJB_wO0ST53-DUZCnxDdLwf4JAsUtM2kKGudjeBclJFUquAP2JTpypk9qobA6PGMA==@com.discord/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.google.android.gm/
+Username Field: N/A
+Username: ozentokyo@7554.com
+Password Field: N/A
+Password: ozentokyo@7554
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: N/A
+Username: Epic 
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://mega.nz/confirmQ29uZmlybUNvZGVWMoOs1UA_BwAHwL4mzyZTf2VwaWN2bjYxQGdtYWlsLmNvbQl0cmkgaHV5bmiVkDIo9fvZbQ
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://club.pokemon.com/us/pokemon-trainer-club/parents/sign-up
+Username Field: N/A
+Username: epic7554
+Password Field: N/A
+Password: RGfPK-N6a_._M.k
+--------------------------------------------------
+URL: android://8aFnQohvDqZXZqFwHBc1F8aKEGrwY3lrDgyxQVCzHK2O1OZneBhuUbghhmQ6Bi-_mhsApipsKJAG-6D0Aj1scg==@id.co.duniagames.android.mobafps/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://profile.callofduty.com/
+Username Field: N/A
+Username: ozen
+Password Field: N/A
+Password: woH_YrtK2d23N0G
+--------------------------------------------------
+URL: https://sso.garena.com/universal/login
+Username Field: N/A
+Username: 247hahaha
+Password Field: N/A
+Password: symap0010
+--------------------------------------------------
+URL: https://www.facebook.com/recover/password/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: N/A
+Username: epi*****@gm***.com
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: @Nikto171147
+--------------------------------------------------
+URL: https://azota.vn/en/auth/register
+Username Field: N/A
+Username: Huỳnh minh trí
+Password Field: N/A
+Password: VXv4kSXDTfrCCSr
+--------------------------------------------------
+URL: https://club.pokemon.com/us/pokemon-trainer-club/parents/sign-up
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: Wp8jekHE:CdvcPq
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epic1711477554galion
+--------------------------------------------------
+URL: android://pBmM_nO60893u4X7D-CanT76SomdRzEME86TJB9BGYmSJ9fDyuZ5RAw-Do1z4Ojw5T_uV-5fU4qvcGnyraIO2w==@mega.privacy.android.app/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: EPICVN171147-THANOS€£¥₩@#$%&!
+--------------------------------------------------
+URL: https://100054.connect.garena.com/oauth/login
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://account.garena.com/security/realinfo/save
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: https://kr.battle.net/login/en-gb/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: binhan-2021
+Password Field: N/A
+Password: an123456
+--------------------------------------------------
+URL: https://100054.connect.garena.com/oauth/login
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://androidpornapk.com/dashboard/login
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: 1ngaykvui26
+Password Field: N/A
+Password: ilovewillS2
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: wCE4$e!3BdVIGyG
+--------------------------------------------------
+URL: https://authgop.garena.com/universal/oauth
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: N/A
+Username: TK.237
+Password Field: N/A
+Password: @Epic7554
+--------------------------------------------------
+URL: https://www.gamehubplus.com/my-account/reset-password
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @TFK.ozen7554
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/index.php
+Username Field: N/A
+Username: Nikto
+Password Field: N/A
+Password: W8C23aAHzzfbicD
+--------------------------------------------------
+URL: https://account.battle.net/login/en/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: thachsaphol0986
+Password Field: N/A
+Password: khangSon@91205
+--------------------------------------------------
+URL: https://garena.xacminh-vn.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://www.wattpad.com/oauth-auth
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: D?FmXGiGXHC4b!7
+--------------------------------------------------
+URL: https://m.facebook.com/login.php
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://shopchientuong.com/register.html
+Username Field: N/A
+Username: epic171147
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: N/A
+Username: Epicvn61@gmail.com
+Password Field: N/A
+Password: epicmega
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: N/A
+Username: epi*****@gm***.com
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://thisinh.thithptquocgia.edu.vn/Account/Login
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: Epicnikto171147@
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: android://GrbREhqYK5ZQg1SKPhpbwNeZ00zqV7ZLjRsQpAY5XOfeq0fjMNJV_Yw9oHx3errtbGO4t4Udf-kRZyv9VryYfg==@com.eagleheart.amanvpn/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://crypko.ai/en/auth/signup
+Username Field: N/A
+Username: nikto7554
+Password Field: N/A
+Password: VtKr8#hCkivR.Uq
+--------------------------------------------------
+URL: https://www.newgrounds.com/forgotpass/01aff2add01a8401724b653367f5948683a73877/ozen7554
+Username Field: N/A
+Username: ozen7554
+Password Field: N/A
+Password: hVC4r_3+84aWHJ7
+--------------------------------------------------
+URL: https://sadpki-portal.ebuajk.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 0843381178
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://heinekensilver.vn/mat-khau-dang-nhap
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://accountscenter.facebook.com/password_and_security/password/change
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://sso.garena.com/universal/login
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: @Nikto171147
+--------------------------------------------------
+URL: https://discord.com/reset
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: yD+C?ku<K#C3np[
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epicvn61
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Epicgalion.7554
+--------------------------------------------------
+URL: https://kr.account.battle.net/creation/flow/patch
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://muakey.com/register
+Username Field: N/A
+Username: ozen7554
+Password Field: N/A
+Password: @Ozen171147
+--------------------------------------------------
+URL: https://www.netflix.com/signup/regform
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://sso.garena.com/universal/register
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: @Epic_237
+--------------------------------------------------
+URL: https://help.steampowered.com/fr/login/
+Username Field: N/A
+Username: epic_slayer666
+Password Field: N/A
+Password: ozen1711477554
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/Pages/Sims/SummaryScheduleOfClass.aspx
+Username Field: N/A
+Username: QT19TC3144
+Password Field: N/A
+Password: 02032004
+--------------------------------------------------
+URL: https://app.revolt.chat/login
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ig$2jp%gFfXXV.@
+--------------------------------------------------
+URL: android://fed5Vp3qFrQy1Mp7hFONoYNyRvdJcNATS-RPbZzxNo8zCXhwwESwmoCEUe_f44ayT9cbT9c3TdR4a3B0EcdVXQ==@de.mobileconcepts.cyberghost/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://auth.garena.com/oauth/login
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://giftcode-lienquanmobile-vn.com/TtFXzPBb5AKG5U80dtUtT9hL3CRXKKP8mljjzYMHIfNuKL3n9c4AbrWctDbwAUqfNImViapenQORTZiNAQOMmOx0CqFE02AfIuBpF
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://store.steampowered.com/join/completesignup
+Username Field: N/A
+Username: epic_slayer666
+Password Field: N/A
+Password: ozen1711477554
+--------------------------------------------------
+URL: https://auth.garena.com/universal/oauth
+Username Field: N/A
+Username: TK.7554
+Password Field: N/A
+Password: @Tk.7554
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: N/A
+Username: Epic_slayer666
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://ilVip4JYAN8oTUfat5_K4czeDDxGsaGBaWgJ7ScFdrknGBMBMf_vQC9NKCLiNYed4ekSJNkfD0wKC1jS0rxbQw==@cm.aptoide.pt/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://quizizz.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: Tk@55.760
+--------------------------------------------------
+URL: https://www.warframe.com/resetpassword/confirm
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen171147
+--------------------------------------------------
+URL: https://vault.bitwarden.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: @ozen.171147
+--------------------------------------------------
+URL: https://somee.com/doka/Identity/Account/Login
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 123456@abcde
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://shopthaygiaolq.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: nhSbHZdZr5phs@Y
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://timhieuphapluat.dongnai.gov.vn/
+Username Field: N/A
+Username: 0943393945
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: https://shopdangym.net/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: 171147epic
+--------------------------------------------------
+URL: https://api.twitter.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: nikto7554
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epicvn61
+Password Field: N/A
+Password: epichitle7554
+--------------------------------------------------
+URL: https://mobile.twitter.com/
+Username Field: N/A
+Username: Epic65044216
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://fq-opD74VNuY8ra3uPus_5196jPAWkv58e5NLGY2NVpWlP5D1soLD14ppT6Faz7u_HAAXbknFYhEo6ebyQjpnQ==@com.netease.wxzc/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://androidpornapk.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: W8C23aAHzzfbicD
+--------------------------------------------------
+URL: https://azota.vn/
+Username Field: N/A
+Username: 8403381178
+Password Field: N/A
+Password: HtSVFtcYx343cBu
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: g0e$Lv9yEV5WJ-A
+--------------------------------------------------
+URL: https://platinmods.com/
+Username Field: N/A
+Username: ozen171
+Password Field: N/A
+Password: 8HD_@JSPxUPw?bE
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 0913176195
+Password Field: N/A
+Password: epic7554171147
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://sso.pokemon.com/
+Username Field: N/A
+Username: epic7554
+Password Field: N/A
+Password: RGfPK-N6a_._M.k
+--------------------------------------------------
+URL: https://shopmuarobux.com/
+Username Field: N/A
+Username: epic-nikto
+Password Field: N/A
+Password: 1711477554
+--------------------------------------------------
+URL: https://nhanquacod.com/
+Username Field: N/A
+Username: 0913176195
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://mobile.twitter.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://hentaihvn.tv/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: ozen171
+--------------------------------------------------
+URL: https://www.gachthe1s.com/
+Username Field: N/A
+Username: Epicgalion
+Password Field: N/A
+Password: @gduFxuy2aiNvxs
+--------------------------------------------------
+URL: android://HsGSeJ26pkVma_XR_3sN4Mh_roN3qGjY6e4Pqj2k7McSTuvcyQERrq53mIJChBxmOu53B36XlZnSQzXT1VBXfw==@com.silverstarstudio.angellegion/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://account.mihoyo.com/
+Username Field: N/A
+Username: 906113
+Password Field: N/A
+Password: epicgalion7554171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: mT0S$3BbKaFz6PO
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: GA-K1ibUh_TLP3s
+--------------------------------------------------
+URL: android://79xEc7TXh3cNp5rV9kci8i6AYyfPq8BmRomGIiNpLtXCAx3qy5RICnOQLbMJaQ1UNGV_N7sSK1dLpTmEZQ8csg==@com.spotify.music/
+Username Field: N/A
+Username: Huỳnh Trí
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://authgop.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://azota.vn/
+Username Field: N/A
+Username: 0843381178
+Password Field: N/A
+Password: HtSVFtcYx343cBu
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://luanvan.co/
+Username Field: N/A
+Username: HMTri
+Password Field: N/A
+Password: #A8Fw$2wx7hdUrG
+--------------------------------------------------
+URL: https://us.account.samsung.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: %)e5t:sG".7ehzU
+--------------------------------------------------
+URL: https://tlauncher.org/
+Username Field: N/A
+Username: nikto
+Password Field: N/A
+Password: H$%Wiys62bCj'#^
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: ni
+Password Field: N/A
+Password: X7kvxZuW5m6L:XT
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.android.vending/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: android://jog2cBSF0MvpSIvjMGj-p1Ce7nqcggocl0u56pKoxcSpVybemhk1OvwHakYrx9OL44IK6n676voganY5qu311Q==@com.goddessidle.global.android/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicslayer171147
+--------------------------------------------------
+URL: https://www.instagram.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: N/A
+Username: Epicmega
+Password Field: N/A
+Password: epicmega
+--------------------------------------------------
+URL: https://gachthe1s.com/
+Username Field: N/A
+Username: Epicgalion
+Password Field: N/A
+Password: @gduFxuy2aiNvxs
+--------------------------------------------------
+URL: https://www.gamehubplus.com/
+Username Field: N/A
+Username: Epic
+Password Field: N/A
+Password: 8y@sMfUD8k97HkP
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.mlite/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic7554galion171147
+--------------------------------------------------
+URL: https://online.hcmute.edu.vn/
+Username Field: N/A
+Username: 23810079
+Password Field: N/A
+Password: 3055DC
+--------------------------------------------------
+URL: https://shub.edu.vn/
+Username Field: N/A
+Username: 0843391178
+Password Field: N/A
+Password: epicqt19tc31
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://auth.garena.com/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://kr.battle.net/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://auth.riotgames.com/
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: @Tk55.670
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: N/A
+Username: darknikto123
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://tlauncher.org/
+Username Field: N/A
+Username: nikto7554
+Password Field: N/A
+Password: H$%Wiys62bCj'#^
+--------------------------------------------------
+URL: https://twitter.com/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: ZDo_Yds9L4vrPBJ
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 171147epic
+--------------------------------------------------
+URL: https://tuananh4g.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://id.cisco.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/
+Username Field: N/A
+Username: QT22CD1113
+Password Field: N/A
+Password: 02032004
+--------------------------------------------------
+URL: android://dV9EIDUsvfc2AkDEKoB-POOhfB9TNVp0J3a12sXvW_c5mk_mYozXxY17Vh6U05klmWQT3kQO5eepBrHDwQ0uYw==@com.deviantart.android.damobile/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: http://thisinh.thitotnghiepthpt.edu.vn/
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: Epicnikto171147@
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: TK.7554
+Password Field: N/A
+Password: @Tk.7554
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: epicgalion7554
+--------------------------------------------------
+URL: https://shopdangym.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: AGdaUxU2t2x9t
+--------------------------------------------------
+URL: https://azota.vn/
+Username Field: N/A
+Username: 0961790152
+Password Field: N/A
+Password: minhpighi01677
+--------------------------------------------------
+URL: android://BnX9M66KmaqmzgqWgQxmbrJB_wO0ST53-DUZCnxDdLwf4JAsUtM2kKGudjeBclJFUquAP2JTpypk9qobA6PGMA==@com.discord/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ozen7554
+--------------------------------------------------
+URL: android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.google.android.gm/
+Username Field: N/A
+Username: ozentokyo@7554.com
+Password Field: N/A
+Password: ozentokyo@7554
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: N/A
+Username: Epic 
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://mega.nz/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://club.pokemon.com/
+Username Field: N/A
+Username: epic7554
+Password Field: N/A
+Password: RGfPK-N6a_._M.k
+--------------------------------------------------
+URL: android://8aFnQohvDqZXZqFwHBc1F8aKEGrwY3lrDgyxQVCzHK2O1OZneBhuUbghhmQ6Bi-_mhsApipsKJAG-6D0Aj1scg==@id.co.duniagames.android.mobafps/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: https://profile.callofduty.com/
+Username Field: N/A
+Username: ozen
+Password Field: N/A
+Password: woH_YrtK2d23N0G
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: 247hahaha
+Password Field: N/A
+Password: symap0010
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://authenticate.riotgames.com/
+Username Field: N/A
+Username: epi*****@gm***.com
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: @Nikto171147
+--------------------------------------------------
+URL: https://azota.vn/
+Username Field: N/A
+Username: Huỳnh minh trí
+Password Field: N/A
+Password: VXv4kSXDTfrCCSr
+--------------------------------------------------
+URL: https://club.pokemon.com/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: Wp8jekHE:CdvcPq
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epic1711477554galion
+--------------------------------------------------
+URL: android://pBmM_nO60893u4X7D-CanT76SomdRzEME86TJB9BGYmSJ9fDyuZ5RAw-Do1z4Ojw5T_uV-5fU4qvcGnyraIO2w==@mega.privacy.android.app/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: EPICVN171147-THANOS€£¥₩@#$%&!
+--------------------------------------------------
+URL: https://100054.connect.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: https://kr.battle.net/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: binhan-2021
+Password Field: N/A
+Password: an123456
+--------------------------------------------------
+URL: https://100054.connect.garena.com/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://androidpornapk.com/
+Username Field: N/A
+Username: huynhminhtri.tp2000@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: 1ngaykvui26
+Password Field: N/A
+Password: ilovewillS2
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: wCE4$e!3BdVIGyG
+--------------------------------------------------
+URL: https://authgop.garena.com/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Ozen.171147
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: TK.237
+Password Field: N/A
+Password: @Epic7554
+--------------------------------------------------
+URL: https://www.gamehubplus.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @TFK.ozen7554
+--------------------------------------------------
+URL: https://deadcells.wiki.gg/
+Username Field: N/A
+Username: Nikto
+Password Field: N/A
+Password: W8C23aAHzzfbicD
+--------------------------------------------------
+URL: https://account.battle.net/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: thachsaphol0986
+Password Field: N/A
+Password: khangSon@91205
+--------------------------------------------------
+URL: https://garena.xacminh-vn.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://www.wattpad.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: D?FmXGiGXHC4b!7
+--------------------------------------------------
+URL: https://m.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://shopchientuong.com/
+Username Field: N/A
+Username: epic171147
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://idp.omlet.me/
+Username Field: N/A
+Username: Epicvn61@gmail.com
+Password Field: N/A
+Password: epicmega
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: https://account.riotgames.com/
+Username Field: N/A
+Username: epi*****@gm***.com
+Password Field: N/A
+Password: nikto171147
+--------------------------------------------------
+URL: https://thisinh.thithptquocgia.edu.vn/
+Username Field: N/A
+Username: 075204011297
+Password Field: N/A
+Password: Epicnikto171147@
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: 171147
+--------------------------------------------------
+URL: android://GrbREhqYK5ZQg1SKPhpbwNeZ00zqV7ZLjRsQpAY5XOfeq0fjMNJV_Yw9oHx3errtbGO4t4Udf-kRZyv9VryYfg==@com.eagleheart.amanvpn/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://crypko.ai/
+Username Field: N/A
+Username: nikto7554
+Password Field: N/A
+Password: VtKr8#hCkivR.Uq
+--------------------------------------------------
+URL: https://www.newgrounds.com/
+Username Field: N/A
+Username: ozen7554
+Password Field: N/A
+Password: hVC4r_3+84aWHJ7
+--------------------------------------------------
+URL: https://sadpki-portal.ebuajk.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic7554
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 0843381178
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://heinekensilver.vn/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://accountscenter.facebook.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: @Nikto171147
+--------------------------------------------------
+URL: https://discord.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: yD+C?ku<K#C3np[
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: epicvn61
+Password Field: N/A
+Password: epic1711477554
+--------------------------------------------------
+URL: android://4QTuITs2CurhsLmNqu2gA2BJh9_o1Bd2rgEW6wHsXQFBoI18Xq7_78czn4htqz-gdvaJMZVWgC8c0NT9O2Aucg==@com.garena.gaslite/
+Username Field: N/A
+Username: epic-galion
+Password Field: N/A
+Password: @Epicgalion.7554
+--------------------------------------------------
+URL: https://kr.account.battle.net/
+Username Field: N/A
+Username: epic
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://muakey.com/
+Username Field: N/A
+Username: ozen7554
+Password Field: N/A
+Password: @Ozen171147
+--------------------------------------------------
+URL: https://www.netflix.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: nikto78358556@gmail.com
+Password Field: N/A
+Password: @Epic_237
+--------------------------------------------------
+URL: https://help.steampowered.com/
+Username Field: N/A
+Username: epic_slayer666
+Password Field: N/A
+Password: ozen1711477554
+--------------------------------------------------
+URL: http://congthongtin.cdktdn.edu.vn/
+Username Field: N/A
+Username: QT19TC3144
+Password Field: N/A
+Password: 02032004
+--------------------------------------------------
+URL: https://app.revolt.chat/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: ig$2jp%gFfXXV.@
+--------------------------------------------------
+URL: android://fed5Vp3qFrQy1Mp7hFONoYNyRvdJcNATS-RPbZzxNo8zCXhwwESwmoCEUe_f44ayT9cbT9c3TdR4a3B0EcdVXQ==@de.mobileconcepts.cyberghost/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://auth.garena.com/
+Username Field: N/A
+Username: epic-171147
+Password Field: N/A
+Password: @Epic171147
+--------------------------------------------------
+URL: https://giftcode-lienquanmobile-vn.com/
+Username Field: N/A
+Username: 0995211914
+Password Field: N/A
+Password: epicgalion171147
+--------------------------------------------------
+URL: https://store.steampowered.com/
+Username Field: N/A
+Username: epic_slayer666
+Password Field: N/A
+Password: ozen1711477554
+--------------------------------------------------
+URL: https://auth.garena.com/
+Username Field: N/A
+Username: TK.7554
+Password Field: N/A
+Password: @Tk.7554
+--------------------------------------------------
+URL: https://steamcommunity.com/
+Username Field: N/A
+Username: Epic_slayer666
+Password Field: N/A
+Password: epic171147
+--------------------------------------------------
+URL: android://ilVip4JYAN8oTUfat5_K4czeDDxGsaGBaWgJ7ScFdrknGBMBMf_vQC9NKCLiNYed4ekSJNkfD0wKC1jS0rxbQw==@cm.aptoide.pt/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: scp69mega
+--------------------------------------------------
+URL: https://quizizz.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: android://tDASGHlps8DtqRvb-AIhOX1gh4HSIwusldAth86Km6PTvQ4TlnOCwWIesX39i8lFi3S9TPaODZxVONaYz8v8ew==@com.zing.zalo/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: 
+--------------------------------------------------
+URL: https://account.garena.com/
+Username Field: N/A
+Username: TK55.760
+Password Field: N/A
+Password: Tk@55.760
+--------------------------------------------------
+URL: https://www.warframe.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen171147
+--------------------------------------------------
+URL: https://vault.bitwarden.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: @ozen.171147
+--------------------------------------------------
+URL: https://somee.com/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: 123456@abcde
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: 3637387440bcee49b16b1470547243c8cf2735f9
+Password Field: N/A
+Password: ozen171
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: 6690dc68ee360d8b0ce7a84f7165b0a9a4252287
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: :rrp:
+Password Field: N/A
+Password: http://www.youtube.com/@ozen.171
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: DBName
+Password Field: N/A
+Password: d19hmtriSaleVissan
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.UserID
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: MERGE0
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: MERGE1
+Password Field: N/A
+Password: 0288acc6-c9ab-4003-a7a0-436bd0e9f0fe
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: SubDomain
+Password Field: N/A
+Password: d19triii
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: account_username_email
+Password Field: N/A
+Password: TK.237
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: account_username_email
+Password Field: N/A
+Password: TK55.760
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: account_username_email
+Password Field: N/A
+Password: epic-galion
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: account_username_email
+Password Field: N/A
+Password: nikto78358556@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: address
+Password Field: N/A
+Password: 197, tổ 16, thành phố biên hòa 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: birthYear
+Password Field: N/A
+Password: 2004
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: bit-input-2
+Password Field: N/A
+Password: tên kênh Youtube 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code
+Password Field: N/A
+Password: 044975
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code
+Password Field: N/A
+Password: 619965
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code
+Password Field: N/A
+Password: 990345
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code-input
+Password Field: N/A
+Password: 29jv0G8K
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: company_website
+Password Field: N/A
+Password: https://youtube.com/@ozen.171?si=1HLDpTo1g8YezyjW
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: contact_email
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: copyright_owner_name
+Password Field: N/A
+Password: OZEN.171
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl00$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl01$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl02$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl03$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl04$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$DataListMH$ctl05$TextBox1
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtEmail
+Password Field: N/A
+Password: 213810079@student.hhcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtEmail
+Password Field: N/A
+Password: 23810079@student.hcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtEmail
+Password Field: N/A
+Password: 23810079@student.hhcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtEmail
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtStudentId
+Password Field: N/A
+Password: 23810079
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtUserName
+Password Field: N/A
+Password: 23810079
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$ctl00$ctl00$txtUserName
+Password Field: N/A
+Password: Huỳnh Minh Trí
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtTim
+Password Field: N/A
+Password: 01
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$Login1$UserName
+Password Field: N/A
+Password: tri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$cphMain$ucLogin1$txtUserName
+Password Field: N/A
+Password: HMTri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$cphMain$ucLogin1$txtUserName
+Password Field: N/A
+Password: hmtri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$cphMain$ucRegister1$txtEmail
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$cphMain$ucRegister1$txtUserName
+Password Field: N/A
+Password: HMTri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: description
+Password Field: N/A
+Password: rise of giant
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: epicvn61
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: forgot_password_input
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: full_name
+Password Field: N/A
+Password: Huỳnh Minh Trí
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: gmail_login
+Password Field: N/A
+Password: nikto78358556@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: 23810079@student.hcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identity
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login
+Password Field: N/A
+Password: nikto7554
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: loginfmt
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Huỳnh Minh Trí
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: egypt25
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: no_3
+Password Field: N/A
+Password: vì tôi chưa vi phạm 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: otc
+Password Field: N/A
+Password: 281583
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: otc
+Password Field: N/A
+Password: 422396
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: otc
+Password Field: N/A
+Password: 614707
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: pass
+Password Field: N/A
+Password: @epicgalion7554
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: phone
+Password Field: N/A
+Password: 0913176195
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: black hole 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: blue archive
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: call of duty
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: codm
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: cosmic
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: galaxy 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: reenter_email
+Password Field: N/A
+Password: epic_slayer666
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: Transfomer
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: Transformers
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: bott
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: dead cells
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: deadcells
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: elder ring
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: plants vs zombie 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: s
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: time 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: search
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: search
+Password Field: N/A
+Password: onmyoji arena
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/5370dc94-14fc-4d05-9307-bcb71fc61b81
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/8ed2501b-6b37-4ef5-b09a-337250cf4d39
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/ad300de3-72f9-4671-9b1d-064ed09b6611
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/bd5e8e4d-afef-4261-8550-c682b99367ba
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/d1610595-1da6-41fa-acb3-ff638c5c846e
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: Check out my song made by Suno Android! https://suno.com/song/fd46eef3-0dea-4511-b13f-2a8f1e54d7d0
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://pin.it/5asxykxZs
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://suno.com/song/5370dc94-14fc-4d05-9307-bcb71fc61b81
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://suno.com/song/bd5e8e4d-afef-4261-8550-c682b99367ba
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://x.com/i/status/1877361788456460420
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://x.com/yamasaning/status/1826201103106740697
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://youtu.be/Bw7R1GnaVSw?si=RAr5Q2nEiggsgZPL
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://youtube.com/shorts/FM6jQEbOU5M?si=O4AuMrwIDtvSYakD
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://youtube.com/shorts/NrEEP1hvw-Y?si=ogF1f9gbBK16r8JS
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: https://youtube.com/shorts/cEi8aA4JzzA?si=D4K-9oMEAbdj2RL5
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sf_url
+Password Field: N/A
+Password: ⁦https://suno.com/song/fd46eef3-0dea-4511-b13f-2a8f1e54d7d0⁩
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: sign-in-phone-number
+Password Field: N/A
+Password: +84 091 317 619 5
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: signature
+Password Field: N/A
+Password: OZEN.171
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: term
+Password Field: N/A
+Password: dead cells
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: tl_list-search-box
+Password Field: N/A
+Password: tiếng nh
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: url
+Password Field: N/A
+Password: https://suno.com/song/fd46eef3-0dea-4511-b13f-2a8f1e54d7d0
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: user[email]
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: 23810079
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: Nikga998
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: TK.237
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: epicvn61@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: ozen
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: wpName
+Password Field: N/A
+Password: Nikto
+Type: Autofill Data
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: 
+Username: epicvn61@gmail.com
+Password Field: 
+Password: @ozen.171
+Created: 2024-08-02 12:19:01.444000
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/
+Username Field: N/A
+Username: epicvn61@gmail.com
+Password Field: N/A
+Password: @ozen.171
+--------------------------------------------------
+
+=== HISTORY ===
+Title: 4 cách download và sử dụng phần mềm Microsoft Office miễn phí
+URL: https://www.dienmayxanh.com/kinh-nghiem-hay/4-cach-dowload-su-dung-phan-mien-microsoft-1186210
+Visited: 2025-01-13 12:18:47.154829
+--------------------------------------------------
+Title: Tải Office miễn phí mà không cần bản quyền. Làm thế nào để làm điều này trong năm 2025? | WPS Office Blog
+URL: https://www.wps.com/blog/vi-VN/vi-download-microsoft-office-for-free-without-a-license/
+Visited: 2025-01-13 12:16:33.429779
+--------------------------------------------------
+Title: word download free - Tìm trên Google
+URL: https://www.google.com/search?q=word+download+free&rlz=1C1ONGR_enVN1138VN1138&oq=wo&gs_lcrp=EgZjaHJvbWUqDggCEEUYJxg7GIAEGIoFMgYIABBFGDkyBggBEEUYQDIOCAIQRRgnGDsYgAQYigUyCggDEAAYsQMYgAQyDQgEEC4YgwEYsQMYgAQyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQgzODIyajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-13 12:16:24.993267
+--------------------------------------------------
+Title: Download Microsoft Word 2024, 2021, 2019, 2016, 2013, 2010 phần mềm so
+URL: https://taimienphi.vn/download-microsoft-word-69509
+Visited: 2025-01-13 12:16:22.670517
+--------------------------------------------------
+Title: d19triii.somee.com
+URL: http://d19triii.somee.com/
+Visited: 2025-01-13 11:45:42.434198
+--------------------------------------------------
+Title: Summary
+URL: https://somee.com/doka/DOU/Websites/WebsiteDetails?mpid=4836323&h1h2h3=8fe61b1d5a1ccd269775b6772d74a706
+Visited: 2025-01-13 11:43:57.668983
+--------------------------------------------------
+Title: IIS applications
+URL: https://somee.com/doka/DOU/Websites/IISApplications?mpid=4836323&h1h2h3=18854fe360af9af98e829d81bbb3b6ac
+Visited: 2025-01-13 11:43:54.912077
+--------------------------------------------------
+Title: Domains / Bindings
+URL: https://somee.com/doka/DOU/Websites/Bindings?mpid=4836323&h1h2h3=131815e91ea59629e8643762d5d4a92d
+Visited: 2025-01-13 11:43:53.123263
+--------------------------------------------------
+Title: Backup file manager
+URL: https://somee.com/doka/DOU/MSSQL/MsSqlFileManager/4836325?h1h2h3=8971fb3dee7a6583910c719ba943613b
+Visited: 2025-01-13 11:41:57.275919
+--------------------------------------------------
+Title: Database details
+URL: https://somee.com/doka/DOU/MSSQL/MsSqlDatabaseDetails/4836325?h1h2h3=d87248c0842bbbd23f1cbbd8795891e4
+Visited: 2025-01-13 11:41:54.947897
+--------------------------------------------------
+Title: Welcome, tri
+URL: https://somee.com/doka/
+Visited: 2025-01-13 11:40:51.281830
+--------------------------------------------------
+Title: Welcome, tri
+URL: https://somee.com/doka/DOU
+Visited: 2025-01-13 11:40:51.281830
+--------------------------------------------------
+Title: Log in
+URL: https://somee.com/doka/Identity/Account/Login
+Visited: 2025-01-13 11:40:36.201917
+--------------------------------------------------
+Title: somee.com login - Tìm trên Google
+URL: https://www.google.com/search?q=somee.com+login&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs5MjkyMjU0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-13 11:40:34.465012
+--------------------------------------------------
+Title: google.meet.join - Tìm trên Google
+URL: https://www.google.com/search?q=google.meet.join&oq=google.mee&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIICAgQABgKGB4yBggJEAAYHjIGCAoQABgeMgYICxAAGB4yBggMEAAYHjIGCA0QABgeMgYIDhAFGCzSAQkxMTk0MWowajeoAhSwAgE&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8
+Visited: 2025-01-13 10:21:35.765809
+--------------------------------------------------
+Title: Google
+URL: https://www.google.com/
+Visited: 2025-01-12 16:24:34.898592
+--------------------------------------------------
+Title: Google
+URL: http://page.portals.mobi/sp/m/TECNO%20BG6?p=BG6-OP&uid=a5c657e3242dcf1c&gaid=1d4fa4a9-7d79-4021-baeb-fbc454e23073
+Visited: 2025-01-12 16:24:34.898592
+--------------------------------------------------
+Title: summer_memories_2.02_Techloky.com
+URL: https://www.mediafire.com/file_premium/n7ihnglmj8rhdcj/summer_memories_2.02_Techloky.com.apk/file
+Visited: 2025-01-12 16:24:19.879771
+--------------------------------------------------
+Title: Tải Sister Interrogation APK 2.0 (Spankbot) Phiên Bản Mobile
+URL: https://apkgosu.com/sister-interrogation
+Visited: 2025-01-12 16:23:04.761641
+--------------------------------------------------
+Title: Summer Memories APK 2.02 (Việt Hóa) Tải xuống cho Mobile
+URL: https://apkgosu.com/summer-memories
+Visited: 2025-01-12 16:23:03.164127
+--------------------------------------------------
+Title: Download Summer Memories APK - Apkgosu
+URL: https://apkgosu.com/download/app/summer-memories
+Visited: 2025-01-12 16:23:00.334115
+--------------------------------------------------
+Title: Download Summer Memories APK - Apkgosu
+URL: https://apkgosu.com/download/mod/summer-memories?mod=43#
+Visited: 2025-01-12 16:22:42.361012
+--------------------------------------------------
+Title: Download Summer Memories APK - Apkgosu
+URL: https://apkgosu.com/download/mod/summer-memories?mod=43
+Visited: 2025-01-12 16:22:27.499897
+--------------------------------------------------
+Title: PvZ Fusion Download (v2.1.7) Android, Windows, iOS
+URL: https://pvzfusion.pro/pvz-fusion-download/
+Visited: 2025-01-12 16:12:41.725792
+--------------------------------------------------
+Title: をかゆ @夏コミ原稿作業中 trên X: "ヒナと女先生 #ブルアカ #BlueArchive #블루아카 #ブルーアーカイブ https://t.co/xIjlh9LyrQ" / X
+URL: https://x.com/JONEYdcd/status/1876465028372762779?s=19&fbclid=IwZXh0bgNhZW0CMTEAAR3UTYS1L8goZeAa6qYVu9kHxQrK10-JcN-k1gey0ePCdWu6cOgODcbOTeE_aem_p9btBJCTxCe5SAMKuCSxzQ
+Visited: 2025-01-12 15:46:18.330207
+--------------------------------------------------
+Title: PVZ Fusion v2.1.7 [OFFICIAL]
+URL: https://pvzfusion.pro/
+Visited: 2025-01-12 15:00:38.016426
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&sca_esv=4cc4a4e95700dd23&sxsrf=ADLYWILvXx61l4C51iGqISKAKKh1F5JfyQ%3A1736694031875&source=hp&ei=D9mDZ7WMM_iZ4-EP9MOfyAk&oq=&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIAKgIIADIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHEC4YJxjqAjIHECMYJxjqAjIHECMYJxjqAkiYC1AAWABwAXgAkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIuqAIPmAMu8QVnDcn0pwbrgJIHATGgBwA&sclient=mobile-gws-wiz-hp
+Visited: 2025-01-12 15:00:35.477831
+--------------------------------------------------
+Title: Google
+URL: https://www.google.com/#sbfbu=1&pi=
+Visited: 2025-01-12 15:00:32.946186
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Oblivion-shroom.png
+Visited: 2025-01-12 15:00:27.233819
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=MeteoriteStar.png
+Visited: 2025-01-12 14:46:57.411834
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Cherrizilla.png
+Visited: 2025-01-12 14:46:47.329440
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Doominator-shroom.png
+Visited: 2025-01-12 14:46:36.032116
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Empress-shroom.png
+Visited: 2025-01-12 14:46:18.428251
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Squash_Infernowood.png
+Visited: 2025-01-12 14:46:07.746900
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List?file=Gatling_Cherrybomber.png
+Visited: 2025-01-12 14:45:57.818206
+--------------------------------------------------
+Title: Fusions List | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Fusions_List
+Visited: 2025-01-12 14:45:52.117743
+--------------------------------------------------
+Title: Category:Stubs | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Category:Stubs
+Visited: 2025-01-12 14:45:48.813037
+--------------------------------------------------
+Title: PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/PVZ:_Fusion_Wiki
+Visited: 2025-01-12 14:45:40.932036
+--------------------------------------------------
+Title: pvz fusion wiki plants - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion+wiki+plants&sca_esv=2ddce7d15ad93ec3&sxsrf=ADLYWILUKTtwDy3vXUUKkamT8yj-yP7f1g%3A1736693082929&ei=WtWDZ-u1OOr1juMPhpK0yQM&oq=pvz+fusion+w&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgxwdnogZnVzaW9uIHcqAggCMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMggQABiABBjLATIIEAAYgAQYsQNIoSNQ2AlYvw9wAXgBkAEAmAF0oAHTAaoBAzEuMbgBAcgBAPgBAZgCA6ACiQLCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAgoQIxiABBgnGIoFwgIMECMYgAQYExgnGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBmAMAiAYBkAYRkgcDMS4yoAfcDA&sclient=mobile-gws-wiz-serp
+Visited: 2025-01-12 14:45:39.811116
+--------------------------------------------------
+Title: Category:Plants | PVZ: Fusion Wiki | Fandom
+URL: https://pvz-fusion.fandom.com/wiki/Category:Plants
+Visited: 2025-01-12 14:45:31.863736
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&sca_esv=2ddce7d15ad93ec3&sxsrf=ADLYWILLafpzr9CakUA3YZL3LlUZ46sxUQ%3A1736689949792&source=hp&ei=HcmDZ-i0Ltvj2roP8pnLoAI&oq=&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIAKgIIATIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHEC4YJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAkjbFVAAWABwAXgAkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIhqAIPmAMh8QXULTIcITY3R5IHATGgBwA&sclient=mobile-gws-wiz-hp#ip=1
+Visited: 2025-01-12 14:45:23.410803
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&sca_esv=2ddce7d15ad93ec3&sxsrf=ADLYWILLafpzr9CakUA3YZL3LlUZ46sxUQ%3A1736689949792&source=hp&ei=HcmDZ-i0Ltvj2roP8pnLoAI&oq=&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIAKgIIATIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHEC4YJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAkjbFVAAWABwAXgAkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIhqAIPmAMh8QXULTIcITY3R5IHATGgBwA&sclient=mobile-gws-wiz-hp#ip=1&sbfbu=1&pi=pvz%20fusion
+Visited: 2025-01-12 14:45:18.867825
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&sca_esv=2ddce7d15ad93ec3&sxsrf=ADLYWILLafpzr9CakUA3YZL3LlUZ46sxUQ%3A1736689949792&source=hp&ei=HcmDZ-i0Ltvj2roP8pnLoAI&oq=&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIAKgIIATIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHEC4YJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAkjbFVAAWABwAXgAkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIhqAIPmAMh8QXULTIcITY3R5IHATGgBwA&sclient=mobile-gws-wiz-hp
+Visited: 2025-01-12 14:44:43.448484
+--------------------------------------------------
+Title: Download Page PVZ Fusion Files - PVZ Fusion
+URL: https://pvzfusion.net/download-files/#downlad-files-for-mobile-android-apk
+Visited: 2025-01-12 13:51:54.772912
+--------------------------------------------------
+Title: Download PvZ Fusion Mod for Mobile Apk & PC (v2.1.6)
+URL: https://pvzfusion.net/
+Visited: 2025-01-12 13:51:35.731397
+--------------------------------------------------
+Title: pvz fusion english mod - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion+english+mod&client=ms-android-transsion&sca_esv=2ddce7d15ad93ec3&sxsrf=ADLYWIK_1gMgM5aBp0DMDcMv9445SwMrwA%3A1736689882063&ei=2siDZ_-9A76M4-EPm4WEeA&oq=pvz+fusion++e&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIg1wdnogZnVzaW9uICBlKgIIBjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBSNczUI0MWPgccAJ4AZABAJgBXqABuQGqAQEyuAEByAEA-AEBmAIEoAKkAsICBxAjGLADGCfCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgwQIxiABBgTGCcYigXCAgoQABiABBhDGIoFwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAZgDAIgGAZAGEZIHAzIuMqAH3gw&sclient=mobile-gws-wiz-serp
+Visited: 2025-01-12 13:51:31.290728
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&oq=&gs_lcrp=EgZjaHJvbWUqCQgGECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAuGCcY6gIyCQgLECMYJxjqAjIJCAwQIxgnGOoCMgkIDRAjGCcY6gIyCQgOECMYJxjqAjIRCA8QABgDGEIYjwEYtAIY6gIyEQgQEAAYAxhCGI8BGLQCGOoCMhEIERAAGAMYQhiPARi0AhjqAjIRCBIQABgDGEIYjwEYtAIY6gIyEQgTEAAYAxhCGI8BGLQCGOoC0gEGLTFqMGo3qAIUsAIB&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8#ip=1
+Visited: 2025-01-12 13:51:30.554811
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&oq=&gs_lcrp=EgZjaHJvbWUqCQgGECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAuGCcY6gIyCQgLECMYJxjqAjIJCAwQIxgnGOoCMgkIDRAjGCcY6gIyCQgOECMYJxjqAjIRCA8QABgDGEIYjwEYtAIY6gIyEQgQEAAYAxhCGI8BGLQCGOoCMhEIERAAGAMYQhiPARi0AhjqAjIRCBIQABgDGEIYjwEYtAIY6gIyEQgTEAAYAxhCGI8BGLQCGOoC0gEGLTFqMGo3qAIUsAIB&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8#ip=1&sbfbu=1&pi=pvz%20fusion
+Visited: 2025-01-12 13:51:23.911076
+--------------------------------------------------
+Title: pvz fusion - Tìm trên Google
+URL: https://www.google.com/search?q=pvz+fusion&oq=&gs_lcrp=EgZjaHJvbWUqCQgGECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAuGCcY6gIyCQgLECMYJxjqAjIJCAwQIxgnGOoCMgkIDRAjGCcY6gIyCQgOECMYJxjqAjIRCA8QABgDGEIYjwEYtAIY6gIyEQgQEAAYAxhCGI8BGLQCGOoCMhEIERAAGAMYQhiPARi0AhjqAjIRCBIQABgDGEIYjwEYtAIY6gIyEQgTEAAYAxhCGI8BGLQCGOoC0gEGLTFqMGo3qAIUsAIB&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8
+Visited: 2025-01-12 13:50:48.463031
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/my/courses.php
+Visited: 2024-12-20 14:04:09.751791
+--------------------------------------------------
+Title: Khóa: An toan thong tin_ Nhom 03_Vua hoc vua lam | UTEx
+URL: https://utexlms.hcmute.edu.vn/course/view.php?id=11467
+Visited: 2024-12-20 14:03:59.506362
+--------------------------------------------------
+Title: Khóa: He quan tri co so du lieu_ Nhom 03_Vua hoc vua lam | UTEx
+URL: https://utexlms.hcmute.edu.vn/course/view.php?id=10537
+Visited: 2024-12-20 14:03:48.718440
+--------------------------------------------------
+Title: Khóa: Co so du lieu_ Nhom 04_Vua hoc vua lam | UTEx
+URL: https://utexlms.hcmute.edu.vn/course/view.php?id=10828
+Visited: 2024-12-20 14:03:39.312994
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/
+Visited: 2024-12-20 14:03:29.357769
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=1twWmpQZYv
+Visited: 2024-12-20 14:03:29.357769
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3D1twWmpQZYv%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-20 14:03:29.357769
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3D1twWmpQZYv%26id%3D1&code=4%2F0AanRRrv1QlSxg1Jb5-xnnR3yM7lvQVoBaBLkhZsTcQgS18dsCHQtRrXf_NPuQNotOJmjJg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-20 14:03:29.357769
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=1twWmpQZYv&id=1&oauth2code=4%2F0AanRRrv1QlSxg1Jb5-xnnR3yM7lvQVoBaBLkhZsTcQgS18dsCHQtRrXf_NPuQNotOJmjJg
+Visited: 2024-12-20 14:03:29.357769
+--------------------------------------------------
+Title: Log in to the site | UTEx
+URL: https://utexlms.hcmute.edu.vn/login/index.php
+Visited: 2024-12-20 14:03:25.889497
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAuGCcY6gIyCQgFECMYJxjqAjIRCAYQABgDGEIYjwEYtAIY6gIyBggHEEUYQNIBDTg3NzE3ODQ3MGowajeoAgewAgE&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-20 14:03:21.478552
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&rlz=1C1ONGR_enVN1138VN1138&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAuGCcY6gIyCQgFECMYJxjqAjIRCAYQABgDGEIYjwEYtAIY6gIyBggHEEUYQNIBDTc3NjUxMTUxMWowajeoAgewAgE&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-19 10:05:39.676464
+--------------------------------------------------
+Title: Khóa: Lap Trinh Python_ Nhom 03_Vua hoc vua lam | UTEx
+URL: https://utexlms.hcmute.edu.vn/course/view.php?id=10666
+Visited: 2024-12-14 11:48:50.052935
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=Or4DKnfkVq
+Visited: 2024-12-14 11:20:59.032812
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DOr4DKnfkVq%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-14 11:20:59.032812
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DOr4DKnfkVq%26id%3D1&code=4%2F0AanRRrvNw311wRmrqfxgV7AuH3XjsX7Nh6QgC2aVd_wJS5Bs6nwmDy3BJLVLHj1MOx2sNQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-14 11:20:59.032812
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=Or4DKnfkVq&id=1&oauth2code=4%2F0AanRRrvNw311wRmrqfxgV7AuH3XjsX7Nh6QgC2aVd_wJS5Bs6nwmDy3BJLVLHj1MOx2sNQ
+Visited: 2024-12-14 11:20:59.032812
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&rlz=1C1ONGR_enVN1138VN1138&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAuGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQLhgnGOoCMgkIBxAjGCcY6gLSAQg5ODVqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-14 11:20:46.426691
+--------------------------------------------------
+Title: Download Roblox
+URL: https://www.roblox.com/download
+Visited: 2024-12-14 01:54:13.955407
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=bAXxvhG2g9
+Visited: 2024-12-12 11:08:48.231553
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DbAXxvhG2g9%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-12 11:08:48.231553
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DbAXxvhG2g9%26id%3D1&code=4%2F0AeanS0bdUW_Xo7qGj3jBR11mc_fvCmnId7Xc_Sa-q0eezuJR42XNR5ddjYb923mnhbbbeA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-12 11:08:48.231553
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=bAXxvhG2g9&id=1&oauth2code=4%2F0AeanS0bdUW_Xo7qGj3jBR11mc_fvCmnId7Xc_Sa-q0eezuJR42XNR5ddjYb923mnhbbbeA
+Visited: 2024-12-12 11:08:48.231553
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&rlz=1C1ONGR_enVN1138VN1138&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFEC4YJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkxNDY3ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-12 11:08:38.805898
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập về nhà | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353008&action=view
+Visited: 2024-12-10 13:07:16.587002
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập về nhà - Sửa bài làm | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353008&action=editsubmission
+Visited: 2024-12-10 13:07:07.097620
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập về nhà | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353008
+Visited: 2024-12-10 13:02:35.741652
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353893&action=view
+Visited: 2024-12-10 12:59:19.174924
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp - Sửa bài làm | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353893&action=editsubmission
+Visited: 2024-12-10 12:58:14.168840
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353893
+Visited: 2024-12-10 12:57:36.104792
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353005
+Visited: 2024-12-10 12:56:35.650081
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=HR7plgXb81
+Visited: 2024-12-10 12:52:29.089561
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DHR7plgXb81%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-10 12:52:29.089561
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DHR7plgXb81%26id%3D1&code=4%2F0AeanS0Zpco5UIheUlZMaR_3SLLYLrQBJvDOQuKNvnv0HOAoWlDm0RU-f-6H9_-Jyak2xUA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-10 12:52:29.089561
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=HR7plgXb81&id=1&oauth2code=4%2F0AeanS0Zpco5UIheUlZMaR_3SLLYLrQBJvDOQuKNvnv0HOAoWlDm0RU-f-6H9_-Jyak2xUA
+Visited: 2024-12-10 12:52:29.089561
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFEC4YJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQg5NTdqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-10 12:52:20.946036
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=aNnQcLdEFG
+Visited: 2024-12-10 09:36:48.427932
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DaNnQcLdEFG%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-10 09:36:48.427932
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3DaNnQcLdEFG%26id%3D1&code=4%2F0AeanS0bDfKqnbc5nnLdY8ZLYzw_KIYgwvJ2Qmd9VgBSSwlWafpI7Wqt_jjHwWr3XyX1dRQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-10 09:36:48.427932
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=aNnQcLdEFG&id=1&oauth2code=4%2F0AeanS0bDfKqnbc5nnLdY8ZLYzw_KIYgwvJ2Qmd9VgBSSwlWafpI7Wqt_jjHwWr3XyX1dRQ
+Visited: 2024-12-10 09:36:48.427932
+--------------------------------------------------
+Title: utex - Tìm trên Google
+URL: https://www.google.com/search?q=utex&rlz=1C1ONGR_enVN1138VN1138&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFEC4YJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQg5OTVqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-10 09:36:31.895917
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp - Sửa bài làm | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php
+Visited: 2024-12-07 12:55:32.768025
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp - Sửa bài làm | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353005&action=editsubmission
+Visited: 2024-12-07 12:55:26.481132
+--------------------------------------------------
+Title: IPPA233277_24_1_03VLVH: Bài tập tại lớp | UTEx
+URL: https://utexlms.hcmute.edu.vn/mod/assign/view.php?id=353005&action=view
+Visited: 2024-12-07 12:54:19.008969
+--------------------------------------------------
+Title: Khóa: Lap Trinh Python_ Nhom 03_Vua hoc vua lam, Chủ đề: New section | UTEx
+URL: https://utexlms.hcmute.edu.vn/course/section.php?id=53323
+Visited: 2024-12-07 12:52:36.224315
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=tnt2ChejxO
+Visited: 2024-12-07 12:34:05.238669
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=953876862348-17d5t0p65ljcirc8n76b7qmi4dbf0k21.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Futexlms.hcmute.edu.vn%2Fadmin%2Foauth2callback.php&state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3Dtnt2ChejxO%26id%3D1&scope=openid%20profile%20email
+Visited: 2024-12-07 12:34:05.238669
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/admin/oauth2callback.php?state=%2Fauth%2Foauth2%2Flogin.php%3Fwantsurl%3Dhttps%253A%252F%252Futexlms.hcmute.edu.vn%252F%26sesskey%3Dtnt2ChejxO%26id%3D1&code=4%2F0AeanS0aoluqTamiFqrYIFLEqXLjwpRYd3UL2Z46nHxPbu7f6mymb_dyBnZFjKDU1F6QLng&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=student.hcmute.edu.vn&prompt=none
+Visited: 2024-12-07 12:34:05.238669
+--------------------------------------------------
+Title: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/auth/oauth2/login.php?wantsurl=https%3A%2F%2Futexlms.hcmute.edu.vn%2F&sesskey=tnt2ChejxO&id=1&oauth2code=4%2F0AeanS0aoluqTamiFqrYIFLEqXLjwpRYd3UL2Z46nHxPbu7f6mymb_dyBnZFjKDU1F6QLng
+Visited: 2024-12-07 12:34:05.238669
+--------------------------------------------------
+Title: utex - Google Search
+URL: https://www.google.com/search?q=utex&sca_esv=b387fdb1ac4b8c07&hl=en-GB&authuser=1&sxsrf=ADLYWIJfs1oOFdfPg5HXzqUJ_mEQ8XYn_w%3A1733574805618&source=hp&ei=lUBUZ97xI4Lf1e8PqbPNyQY&iflsig=AL9hbdgAAAAAZ1ROpcRQbfAe-fBIy1uiwO5HTrTbdHsy&oq=&gs_lp=Egdnd3Mtd2l6IgAqAggCMgcQIxgnGOoCMgcQIxgnGOoCMgcQIxgnGOoCMgcQIxgnGOoCMgcQIxgnGOoCMgcQLhgnGOoCMgcQIxgnGOoCMgcQIxgnGOoCMgoQABgDGOoCGI8BMgoQABgDGOoCGI8BSNUKUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAg-oAgqYAw_xBbHwp7uiJEFekgcBMaAHAA&sclient=gws-wiz
+Visited: 2024-12-07 12:33:55.899774
+--------------------------------------------------
+Title: Google
+URL: https://www.google.com/?hl=en-GB&authuser=1
+Visited: 2024-12-07 12:33:26.289766
+--------------------------------------------------
+
+=== BOOKMARKS ===
+Name: YouTube
+URL: https://www.youtube.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Facebook
+URL: https://www.facebook.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Official Dead Cells Wiki
+URL: https://deadcells.wiki.gg/wiki/Dead_Cells_Wiki
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Hình nền 4K 8K | Hình nền Ultra HD | UHD
+URL: https://www.uhdpaper.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Pinterest
+URL: https://www.pinterest.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Trình tải xuống video Pinterest - Tải xuống Pinterest Video, Hình ảnh & Gif Trực tuyến
+URL: https://pinterestdownloader.com/vi
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Trang chủ - Chess.com
+URL: https://www.chess.com/home
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: • Discord | Bạn bè
+URL: https://discord.com/channels/@me
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Màn hình chính
+URL: https://classroom.google.com/u/0/h
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: IGGGAMES » Free Download PC Games - Direct Links
+URL: https://igg-games.cc/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: アカウント情報 - Yostar IDセンター
+URL: https://account.yostar.co.jp/user
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Cách đổi DNS trên máy tính Windows 10,11 và Mac đơn giản, nhanh chóng - Thegioididong.com
+URL: https://www.thegioididong.com/hoi-dap/huong-dan-doi-doi-dns-tren-may-tinh-1052424
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: CALL OF DUTY MOBILE VN
+URL: https://pay.zing.vn/app/codm
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Yuri Neko - Sự dịu dàng cuối cùng
+URL: https://yurineko.net/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: 4K 8K Wallpaper Background | Ultra HD Wallpapers | UHD
+URL: https://www.uhdpaper.com/?m=1
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Yurineko Manga \ Sự dịu dàng cuối cùng
+URL: https://yurineko.net/read/2648/15398
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Tải video Twitter miễn phí online - Twitter Downloader
+URL: https://ssstwitter.com/vi
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Instagram
+URL: https://www.instagram.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: gachthe1s.com - Mua bán thẻ điện thoại, thẻ game, nạp tiền topup cao nhất thị trường
+URL: https://gachthe1s.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Facebook
+URL: https://m.facebook.com/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Pokemon UNITE Walkthrough & Guides Wiki｜Game8
+URL: https://game8.co/games/Pokemon-UNITE
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Tải xuống tệp APK Android ブルーアーカイブ 1.40.25...
+URL: https://apkpure.net/vn/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/com.YostarJP.BlueArchive/download?_gl=1*1widb2c*_ga*YW1wLTlCaWZYSXplYThhN3NOWDluTFA0c1dZWm9meUNvVVhGUjZYLTU1eFVicjF4MWRyMG93U3lYdm1acU40QS1Oc1o.#google_vignette
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Deck Shop for Clash Royale | Best Clash Royale decks
+URL: https://www.deckshop.pro/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Y2meta Downloader - Tải video youtube, chuyển đổi youtube sang mp3
+URL: https://www.y2meta.com/vi140
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Telegram
+URL: https://web.telegram.org/a/
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Онлайн редактор сохранений игры «Растения против зомби 2»
+URL: https://pvsz2.ru/editor
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Gemini
+URL: https://gemini.google.com/app?hl=vi
+Added: 2025-01-13 21:49:17.070678
+--------------------------------------------------
+Name: Các khoá học của tôi | UTEx
+URL: https://utexlms.hcmute.edu.vn/my/courses.php
+Added: 2025-01-13 21:49:17.078195
+--------------------------------------------------
+
+=== COOKIES ===
+
+=== CREDIT CARDS ===
