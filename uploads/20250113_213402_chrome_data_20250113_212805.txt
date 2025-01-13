@@ -1,0 +1,3144 @@
+=== CHROME DATA EXTRACTION ===
+
+=== PASSWORDS & AUTOFILL DATA ===
+URL: Autofill Data
+Username Field: N/A
+Username: :rc:
+Password Field: N/A
+Password: tri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: DBName
+Password Field: N/A
+Password: d04ptgkTV
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: FileName
+Password Field: N/A
+Password: MainMaster.master
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.EmailAddress
+Password Field: N/A
+Password: 23810062@student.hcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.FirstName
+Password Field: N/A
+Password: Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.LastName
+Password Field: N/A
+Password: eCOM
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.UserID
+Password Field: N/A
+Password: d04ptgk
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.ValidationText
+Password Field: N/A
+Password: 727fay
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: PostForm[name]
+Password Field: N/A
+Password: Guide to Making NPCs Move to Target Points in Roblox Studio
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: SiteTitle
+Password Field: N/A
+Password: d04ptgk 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: SubDomain
+Password Field: N/A
+Password: d04ptgk
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ValidationCode
+Password Field: N/A
+Password: 1867665616
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: 123123
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Ku Bao Store
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Nguyen Kim Bao
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Nguyễn kim bảo
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Phạm Trần Gia Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 0374737888
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 123123
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 19038997010017
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: LKWDke18RL65vktCBEjM2feannBCT5Gzvb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: Số TK: 366885755 - Địa Chỉ Nạp :LKWDke18RL65vktCBEjM2feannBCT5Gzvb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: admin_email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: apiKeyName
+Password Field: N/A
+Password: Key
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: cfctest-locked-org-picker
+Password Field: N/A
+Password: No organization
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: chat_id_telegram
+Password Field: N/A
+Password: -4739175447
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: cke_4424_textInput
+Password Field: N/A
+Password: www.rblxvn.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code_part[]
+Password Field: N/A
+Password: T
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtDC
+Password Field: N/A
+Password: Biên Hòa
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtGhiChu
+Password Field: N/A
+Password: NGon
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtHoTenKH
+Password Field: N/A
+Password: Phạm Trần Gia Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtMaKH
+Password Field: N/A
+Password: 23810062
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtSoDT
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtTim
+Password Field: N/A
+Password: 23810062
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ctl00$ctl00$txtSearch
+Password Field: N/A
+Password: clone 6
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: code game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: wordpress shop gake
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: wordpress shop game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: dbname
+Password Field: N/A
+Password: shoprobux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho340@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho420@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: first_name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: 100 phút
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: 4 phút
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: h-domain-finder-header-input
+Password Field: N/A
+Password: roblox.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: hovaten
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho340@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho370@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho380
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho390@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho410@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho420@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: nguyenduc5.his@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: input
+Password Field: N/A
+Password: https://www.ixigua.com/7352798587656339979?logTag=778748db044636656396
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ip
+Password Field: N/A
+Password: 118.71.220.50
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: last_name
+Password Field: N/A
+Password: pham
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: log
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login_id
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login_id
+Password Field: N/A
+Password: cafehepho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 1,000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 10 $
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 1000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 500 Gems - Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 80 Ngọc - Brawl Stars bảo hành
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 89
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 90
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 98
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Android
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: App di động
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Apple
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Blox Fuit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Call Of Duty Mobile
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Console Gaming
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Free Fire
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: GAME
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: GPU & Màn hình
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Hackintosh
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Legend of League
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Level : 500 - 700 / No Life - Rod Of The Deps - Trident / IP GLOBAL
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Liên Quân Mobile
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Lập trình / CNTT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Multimedia
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Máy tính xách tay
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Ngoại ngữ
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Nạp gói 10$
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Overclocking & Cooling & Modding
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: PC Gaming
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Phần cứng chung
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Phần mềm
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 100
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 87
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 88
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 89
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 90
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 91
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Server / NAS / Render Farm
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Small Form Factor PC
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Thiết bị ngoại vi & Phụ kiện & Mạng
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Top Up Game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Tư vấn cấu hình
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: TẾT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Vé Vàng - Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Wild Rift
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: a
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: addGameProduct.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: anhquadeptrairoi10
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: bloxfruit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: buyGameService.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: checkscam
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: editOrderContent.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameOrders.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameProductAdd.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameProducts.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gia khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: loadDocumentContent.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: nạp game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: processGameOrder.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: robux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: shop-bloxfruit.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: showBloxfruit.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: nameYourKey_1
+Password Field: N/A
+Password: key2
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: nameYourKey_3
+Password Field: N/A
+Password: key
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-group-picker-search
+Password Field: N/A
+Password: @KhangDve
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-group-picker-search
+Password Field: N/A
+Password: rb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: @
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: @Khangdve_bot
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: rblxvn.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: bt
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: db_shopgame
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: scam_check_db
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: shopkhang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: shoprobux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: voz
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: oauth_access[description]
+Password Field: N/A
+Password: tri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: organizationName
+Password Field: N/A
+Password: IT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: password
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 20000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 87000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 90000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 98000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: projectName
+Password Field: N/A
+Password: Default project
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: tank
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: query
+Password Field: N/A
+Password: Tet
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: query
+Password Field: N/A
+Password: Tết
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: rate
+Password Field: N/A
+Password: 25000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: rate
+Password Field: N/A
+Password: 25500
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: request[subject]
+Password Field: N/A
+Password: Tôi bị trục trặc về vấn đề mạng 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: Vietnam Payment Gateway for WooCommerce
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: tl_list-search-box
+Password Field: N/A
+Password: Tiếng An
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_telegram
+Password Field: N/A
+Password: 7015391783:AAG3q9o5JrNT16ruofM9IAQz752sUJvClVo
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_telegram
+Password Field: N/A
+Password: 7578908928:AAFNalfIqcNW1BT0KaVjn-2PvZqiebx1j4I
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_thesieure
+Password Field: N/A
+Password: 6e6eabb15faa3700d3e5795a2b12489a
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: uname
+Password Field: N/A
+Password: root
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: user
+Password Field: N/A
+Password: ca2pnt105s3r
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: user_name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: anhquadeptrairoi10
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho320
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho330
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho340
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho360
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho370
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: drabula2
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: lamlaicuocdoi_1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: leyensuingrit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: weblog_title
+Password Field: N/A
+Password: SHOP ROBUX
+Type: Autofill Data
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: 123123
+Created: 2024-11-05 04:39:01.120424
+--------------------------------------------------
+URL: http://localhost:8000/register/
+Username Field: username
+Username: khang
+Password Field: password1
+Password: Son@91205
+Created: 2025-01-03 11:13:04.695201
+Times Used: 1
+--------------------------------------------------
+URL: http://localhost:8000/login/
+Username Field: username
+Username: admin
+Password Field: password
+Password: 123
+Created: 2025-01-03 11:05:27.365372
+Times Used: 2
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: 123123
+--------------------------------------------------
+URL: http://localhost:8000/register/
+Username Field: N/A
+Username: khang
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: http://localhost:8000/login/
+Username Field: N/A
+Username: admin
+Password Field: N/A
+Password: 123
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: 123123
+--------------------------------------------------
+URL: http://localhost:8000/
+Username Field: N/A
+Username: khang
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: http://localhost:8000/
+Username Field: N/A
+Username: admin
+Password Field: N/A
+Password: 123
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: shipName
+Password Field: N/A
+Password: aaaa
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: khang1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: thuonglam2015
+Type: Autofill Data
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khanggame123
+Created: 1652-01-15 14:15:40.983000
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: username
+Username: Khangdiverter
+Password Field: password
+Password: khanggame123
+Created: 2017-12-06 23:16:15.557457
+Times Used: 1
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: u
+Username: khanggame321
+Password Field: p
+Password: khanggame
+Created: 2017-12-08 23:16:33.968575
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-03 11:57:10.393973
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:42:55.229352
+Times Used: 4
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: password
+Password: Son@91205
+Created: 2022-09-24 05:43:11.423013
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:28:35.113100
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: 
+Username: 0349634142
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-28 08:23:21.501000
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: IQ200Yaxua
+Password Field: password
+Password: Son@91205
+Created: 2019-12-04 03:59:40.292028
+Times Used: 3
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: 
+Username: cocakola2020
+Password Field: 
+Password: cocacola123456
+Created: 1652-02-10 04:26:18.371000
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khang123123
+Created: 1652-01-14 11:20:03.932000
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: pass
+Password: Son@9120514042003
+Created: 2021-11-05 09:27:30.699732
+Times Used: 2
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: txtUserNameDK
+Username: cafehepho330
+Password Field: txtPassDK
+Password: 1234
+Created: 2019-12-12 11:53:56.178297
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: phoneOrEmail
+Username: cafehepho300
+Password Field: password
+Password: Son@91205
+Created: 2022-02-23 12:20:26.839847
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-04 12:46:25.373511
+Times Used: 1
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: UserNameReg
+Username: cafehepho330
+Password Field: PasswordReg
+Password: khanggame123
+Created: 2019-12-20 10:13:19.691331
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: 
+Username: jvUsnyQw
+Password Field: 
+Password: 14042003
+Created: 2022-02-10 17:44:11.417406
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: khanggame123
+Created: 2020-02-03 04:19:37.539200
+Times Used: 1
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: username
+Username: gogo11
+Password Field: password
+Password: Son@91205
+Created: 2022-02-26 11:26:09.538402
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: Input_UsernameVal
+Username: cafehepho320@gmail.com
+Password Field: Input_PasswordVal
+Password: Son@91205
+Created: 2022-09-25 12:15:11.739913
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: 
+Username: 
+Password Field: password
+Password: khanggame123
+Created: 2019-07-03 04:32:54.478816
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: email
+Username: hellodanm@gmail.com
+Password Field: password
+Password: hellodanm
+Created: 2022-03-02 11:46:47.091475
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: cafehepho320@gmail.com
+Password Field: passwd
+Password: khang14042003
+Created: 2022-09-24 07:26:01.703531
+Times Used: 1
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: email
+Username: cafehepho350@gmail.com
+Password Field: pass
+Password: khanggame123
+Created: 2022-03-02 11:38:00.707325
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: beekoojeninep@outlook.jp
+Password Field: passwd
+Password: su5G8K88
+Created: 2022-09-25 13:17:37.237222
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: hellodanm1
+Password Field: password
+Password: ducdo234
+Created: 2022-02-20 13:41:34.475415
+Times Used: 2
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: 
+Username: cafehepho3000
+Password Field: 
+Password: khanggame123
+Created: 2025-01-13 21:28:07.054443
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: tuyxaunhungdccaihen
+Password Field: password
+Password: hoahuynh159357
+Created: 2024-08-01 03:20:57.747975
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: user_sign-up
+Username: Nguyên
+Password Field: pass_sign-up
+Password: thaonguyen20061106
+Created: 2020-03-13 14:20:55.019278
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho330
+Password Field: 
+Password: Son@91205
+Created: 1652-01-14 23:43:30.483000
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: 
+Username: phamthaonguyen206@gmail.com
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-27 14:51:16.051000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: 035 592 1887
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho350@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: 
+Username: anhquadeptrairoi10
+Password Field: 
+Password: Son@91205
+Created: 2025-01-13 21:28:07.070236
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khanggame123
+Created: 1652-01-15 14:15:40.983000
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: username
+Username: Khangdiverter
+Password Field: password
+Password: khanggame123
+Created: 2017-12-06 23:16:15.557457
+Times Used: 1
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: u
+Username: khanggame321
+Password Field: p
+Password: khanggame
+Created: 2017-12-08 23:16:33.968575
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-03 11:57:10.393973
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:42:55.229352
+Times Used: 4
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: password
+Password: Son@91205
+Created: 2022-09-24 05:43:11.423013
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:28:35.113100
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: 
+Username: 0349634142
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-28 08:23:21.501000
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: IQ200Yaxua
+Password Field: password
+Password: Son@91205
+Created: 2019-12-04 03:59:40.292028
+Times Used: 3
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: 
+Username: cocakola2020
+Password Field: 
+Password: cocacola123456
+Created: 1652-02-10 04:26:18.371000
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khang123123
+Created: 1652-01-14 11:20:03.932000
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: pass
+Password: Son@9120514042003
+Created: 2021-11-05 09:27:30.699732
+Times Used: 2
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: txtUserNameDK
+Username: cafehepho330
+Password Field: txtPassDK
+Password: 1234
+Created: 2019-12-12 11:53:56.178297
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: phoneOrEmail
+Username: cafehepho300
+Password Field: password
+Password: Son@91205
+Created: 2022-02-23 12:20:26.839847
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-04 12:46:25.373511
+Times Used: 1
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: UserNameReg
+Username: cafehepho330
+Password Field: PasswordReg
+Password: khanggame123
+Created: 2019-12-20 10:13:19.691331
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: 
+Username: jvUsnyQw
+Password Field: 
+Password: 14042003
+Created: 2022-02-10 17:44:11.417406
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: khanggame123
+Created: 2020-02-03 04:19:37.539200
+Times Used: 1
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: username
+Username: gogo11
+Password Field: password
+Password: Son@91205
+Created: 2022-02-26 11:26:09.538402
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: Input_UsernameVal
+Username: cafehepho320@gmail.com
+Password Field: Input_PasswordVal
+Password: Son@91205
+Created: 2022-09-25 12:15:11.739913
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: 
+Username: 
+Password Field: password
+Password: khanggame123
+Created: 2019-07-03 04:32:54.478816
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: email
+Username: hellodanm@gmail.com
+Password Field: password
+Password: hellodanm
+Created: 2022-03-02 11:46:47.091475
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: cafehepho320@gmail.com
+Password Field: passwd
+Password: khang14042003
+Created: 2022-09-24 07:26:01.703531
+Times Used: 1
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: email
+Username: cafehepho350@gmail.com
+Password Field: pass
+Password: khanggame123
+Created: 2022-03-02 11:38:00.707325
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: beekoojeninep@outlook.jp
+Password Field: passwd
+Password: su5G8K88
+Created: 2022-09-25 13:17:37.237222
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: hellodanm1
+Password Field: password
+Password: ducdo234
+Created: 2022-02-20 13:41:34.475415
+Times Used: 2
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: 
+Username: cafehepho3000
+Password Field: 
+Password: khanggame123
+Created: 2025-01-13 21:28:07.083920
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: tuyxaunhungdccaihen
+Password Field: password
+Password: hoahuynh159357
+Created: 2024-08-01 03:20:57.747975
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: user_sign-up
+Username: Nguyên
+Password Field: pass_sign-up
+Password: thaonguyen20061106
+Created: 2020-03-13 14:20:55.019278
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho330
+Password Field: 
+Password: Son@91205
+Created: 1652-01-14 23:43:30.483000
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: 
+Username: phamthaonguyen206@gmail.com
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-27 14:51:16.051000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: 035 592 1887
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho350@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: 
+Username: anhquadeptrairoi10
+Password Field: 
+Password: Son@91205
+Created: 2025-01-13 21:28:07.109100
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+
+=== HISTORY ===
+Title: gmail - Tìm trên Google
+URL: https://www.google.com/search?q=gmail&oq=gmail&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDINCAIQABiDARixAxiABDIKCAMQABixAxiABDISCAQQABgKGIMBGLEDGIAEGIoFMgoIBRAAGLEDGIAEMgcIBhAAGIAEMgcIBxAAGIAE0gEIMjI0M2owajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-08 12:32:48.660415
+--------------------------------------------------
+Title: thức minh tuệ - Tìm trên Google
+URL: https://www.google.com/search?sca_esv=567053787dee1642&q=th%E1%BB%A9c+minh+tu%E1%BB%87&udm=2&fbs=AEQNm0D7NTKsOqMPi-yhU7bWDsijXeHIssQxQHiKhz3Orm0Szk2q6O3Esev6DIwpyqAb2BhU_XPDe_-rbr0QDAbldvXsiw0UkxftGVe7s5KNF4nCnaMnMDobJA_rTj8EVoWjbHUzsy3KL0wpFRUI_twHFkfM2h5uVzDRXy9LDL_NRWpvHsWY5mpaahrEAsltczFa-uarrRSwewmWfO8oz-64jPnYy2EiSutSljTRDXIt1PROtco0YEs&sa=X&sqi=2&ved=2ahUKEwiswpqGkOGKAxXSUGwGHZYaMtIQtKgLegQIGBAB&biw=1920&bih=945&dpr=1
+Visited: 2025-01-06 12:45:30.691660
+--------------------------------------------------
+Title: thức minh tuệ - Tìm trên Google
+URL: https://www.google.com/search?q=th%E1%BB%A9c+minh+tu%E1%BB%87&oq=th%E1%BB%A9c+minh+tu%E1%BB%87&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDI2MTRqMGo3qAIHsAIB&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:45:26.602817
+--------------------------------------------------
+Title: Number 1 Trusted Game Shop
+URL: https://rblxvn.com/client/home/shop-document
+Visited: 2025-01-06 12:35:10.463798
+--------------------------------------------------
+Title: Number 1 Trusted Game Shop
+URL: https://rblxvn.com/client/home/shop-robux
+Visited: 2025-01-06 12:35:08.225513
+--------------------------------------------------
+Title: Mua Fanpage/Group | Number 1 Trusted Game Shop
+URL: https://rblxvn.com/client/shop-bloxfruit
+Visited: 2025-01-06 12:35:06.198653
+--------------------------------------------------
+Title: Number 1 Trusted Game Shop
+URL: https://rblxvn.com/
+Visited: 2025-01-06 12:35:02.808517
+--------------------------------------------------
+Title: rblxvn - Tìm trên Google
+URL: https://www.google.com/search?q=rblxvn&oq=rblxvn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgKGA0YgAQyCQgCEAAYDRiABDILCAMQABgKGA0YgAQyCQgEEAAYDRiABDIJCAUQABgNGIAEMgsIBhAAGAoYDRiABDILCAcQABgKGA0YgAQyDggIEAAYChgNGMcDGIAEMgsICRAuGAoYDRiABNIBCDQ0NTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:34:56.359570
+--------------------------------------------------
+Title: RBLXVN CHANNEL - YouTube
+URL: https://www.youtube.com/@rblxvnchannel
+Visited: 2025-01-06 12:34:53.356615
+--------------------------------------------------
+Title: Kiểm tra độ tin cậy của trang web rblxvn.site | SCAM.VN - Cảnh Báo Lừa Đảo
+URL: https://scam.vn/check-website?domain=rblxvn.site
+Visited: 2025-01-06 12:34:36.890180
+--------------------------------------------------
+Title: $$HuongDanChonDT.pdf
+URL: file:///C:/Users/cafeh/Documents/Zalo%20Received%20Files/$$HuongDanChonDT.pdf
+Visited: 2025-01-06 12:33:37.767528
+--------------------------------------------------
+Title: Ống hút gạo - Ống hút tinh bột Lúa Sớm (bịch 500gr)
+URL: https://tre-viet.com/ong-hut-gao?srsltid=AfmBOorjljfqIQlPtCshHvFjrRQKkMYdLrEgIwz_0pWQeUDsCBoRr2vn
+Visited: 2025-01-06 12:32:29.340774
+--------------------------------------------------
+Title: Tre Việt - Sản phẩm từ Thiên nhiên thân thiện môi trường
+URL: https://tre-viet.com/
+Visited: 2025-01-06 12:32:17.782558
+--------------------------------------------------
+Title: ống hút gọa - Tìm trên Google
+URL: https://www.google.com/search?q=%E1%BB%91ng+h%C3%BAt+g%E1%BB%8Da&oq=%E1%BB%91ng+h%C3%BAt+g%E1%BB%8Da&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDM0NjVqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:28:38.234876
+--------------------------------------------------
+Title: Ống hút gạo là gì? Lợi ích khi sử dụng ống hút gạo - Creating a green life
+URL: https://ecostrawsvietnam.vn/ong-hut-gao-la-gi-loi-ich-khi-su-dung-ong-hut-gao/
+Visited: 2025-01-06 12:28:17.915580
+--------------------------------------------------
+Title: Em hãy lấy ví dụ về một ý tưởng kinh doanh và cơ hội kinh doanh
+URL: https://vietjack.com/kinh-te-phap-luat-11-cd/luyen-tap-1-trang-52-kinh-te-phap-luat-11.jsp
+Visited: 2025-01-06 12:27:53.563188
+--------------------------------------------------
+Title: những ví dụ về kinh donah - Tìm trên Google
+URL: https://www.google.com/search?q=nh%E1%BB%AFng+v%C3%AD+d%E1%BB%A5+v%E1%BB%81+kinh+donah&sca_esv=567053787dee1642&ei=_Mt7Z7GMOY-dseMPzqXtqAw&ved=0ahUKEwix-vDqi-GKAxWPTmwGHc5SG8UQ4dUDCA8&uact=5&oq=nh%E1%BB%AFng+v%C3%AD+d%E1%BB%A5+v%E1%BB%81+kinh+donah&gs_lp=Egxnd3Mtd2l6LXNlcnAiIG5o4buvbmcgdsOtIGThu6UgduG7gSBraW5oIGRvbmFoMgYQABgNGB4yCBAAGAgYDRgeMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIFEAAY7wVIx0NQkghYr0FwEXgAkAEMmAHLAqABsCWqAQkzMi4xNS4wLjG4AQPIAQD4AQGYAjSgApodqAIKwgIKEAAYsAMY1gQYR8ICEBAAGIAEGLEDGEMYgwEYigXCAgsQABiABBixAxiDAcICChAAGIAEGEMYigXCAggQABiABBixA8ICBBAAGAPCAgUQABiABMICDhAAGIAEGLEDGIMBGIoFwgIFEC4YgATCAgsQLhiABBjHARivAcICEBAAGAMYtAIY6gIYjwHYAQHCAhAQLhgDGLQCGOoCGI8B2AEBwgIOEC4YgAQYsQMYgwEYigXCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGLEDGIMBwgIEEC4YA8ICCxAuGIAEGNEDGMcBwgIdEC4YgAQYsQMYgwEYigUYlwUY3AQY3gQY4ATYAQLCAg4QLhiABBixAxjRAxjHAcICBxAuGIAEGArCAgcQABiABBgKwgINEAAYgAQYsQMYgwEYCsICChAAGIAEGLEDGArCAhAQLhiABBixAxjRAxjHARgKwgIWEC4YgAQYChiXBRjcBBjeBBjgBNgBAsICDBAAGIAEGAoYRhj5AcICChAuGIAEGLEDGArCAg0QLhiABBjHARgKGK8BwgImEAAYgAQYChhGGPkBGJcFGIwFGN0EGEYY-QEY9AMY9QMY9gPYAQLCAhAQABiABBixAxiDARhGGPkBwgIIEC4YgAQYsQPCAioQABiABBixAxiDARhGGPkBGJcFGIwFGN0EGEYY-QEY9AMY9QMY9gPYAQLCAhQQLhiABBiXBRjcBBjeBBjgBNgBAsICCBAAGBYYChgewgIGEAAYFhgemAMG8QVLAmX4X4eHbYgGAZAGCLoGBAgBGAq6BgYIAhABGBSSBwkzOC4xMy4wLjGgB5vJAw&sclient=gws-wiz-serp
+Visited: 2025-01-06 12:27:51.517056
+--------------------------------------------------
+Title: Download UniKey | UniKey
+URL: https://www.unikey.org/download.html
+Visited: 2025-01-06 12:27:14.775908
+--------------------------------------------------
+Title: UniKey 4.6 RC2 Release | UniKey
+URL: https://www.unikey.org/version_4_6_2.html
+Visited: 2025-01-06 12:27:12.764442
+--------------------------------------------------
+Title: UniKey 4.6 RC2 Release | UniKey
+URL: https://www.unikey.org/#google_vignette
+Visited: 2025-01-06 12:27:11.565520
+--------------------------------------------------
+Title: UniKey - Bàn phím tiếng Việt | UniKey
+URL: https://www.unikey.org/
+Visited: 2025-01-06 12:27:09.380180
+--------------------------------------------------
+Title: unikey - Tìm trên Google
+URL: https://www.google.com/search?q=unikey&oq=unikey&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgYIARBFGEAyDQgCEAAYgwEYsQMYgAQyCggDEAAYsQMYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:27:07.559294
+--------------------------------------------------
+Title: kinh doanh thue vps - Tìm trên Google
+URL: https://www.google.com/search?q=kinh+doanh+thue+vps&oq=kinh+doanh+thue+vps&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRiPAjIHCAQQIRiPAtIBCDU4NjhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:26:53.860291
+--------------------------------------------------
+Title: Cho thuê Cloud Server NVMe, Host VPS Chất Lượng Cao
+URL: https://longvan.net/cloud-server?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNiGbq_zcppwmShbtT7jVVnCG4Wv5kHo8fAd2lF7Et37WaCe--6PUvxoCrgYQAvD_BwE
+Visited: 2025-01-06 12:26:48.784924
+--------------------------------------------------
+Title: Cho thuê Cloud Server NVMe, Host VPS Chất Lượng Cao
+URL: https://www.google.com/aclk?sa=l&ai=DChcSEwiKv_fqi-GKAxWdo2YCHcWHH5QYABAGGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=CjwKCAiAm-67BhBlEiwAEVftNiGbq_zcppwmShbtT7jVVnCG4Wv5kHo8fAd2lF7Et37WaCe--6PUvxoCrgYQAvD_BwE&sig=AOD64_3yIvbbuWZ8hqVAg7Uri0VEoXFYWw&q&nis=6&adurl&ved=2ahUKEwix-vDqi-GKAxWPTmwGHc5SG8UQ0Qx6BAgXEAM
+Visited: 2025-01-06 12:26:47.921904
+--------------------------------------------------
+Title: Cho thuê Cloud Server NVMe, Host VPS Chất Lượng Cao
+URL: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CO8kz_ct7Z8rMAp3HmsMPxY_-oAmropqxeprA3trrEaKupAoIABADKARgwQWgAZ_khNIDyAEBqQIZsXF8l6bFPcgD2CCqBGBP0C0JjACCKbJbCCAxtcOmebiypUL3bUySo1pfAETI3NbA_UjuA433XOQ45QmuaTiIGeF925gNXxP5a1r2_uiknL42-q2kMx1FU29I3POtfhxuvihRkv84Az9VMWE1vYnABLjVpaimAYgFw-_ihgOgBmaAB8mb-y2IBwGQBwGoB-u4sQKoB6a-G6gHuZqxAqgH89EbqAfu0huoB_-csQKoB8rcG6gHkq-xAqgHu6SxAqgH2LOxAqgH2KaxAqgHyqmxAqgHorqxAqgH6rqxAqgHmbWxAqgH3rWxAqgH26qxAqgH0KqxAqgH6rGxAqgHlLixAqgH7LixAqgHvrexAqgHlsmxAqgHg8OxAqgHlcmxAqgHzsqxAqgHlsmxAqgHl8mxAqgH38mxAqgHicqxAqgHvsmxAqgHmcmxAqAI2LuxBLAIAdIILRACMgSD4IAOOhDC8YCAgIAEgsCAwIWggIACQgEESNHs8ypQCViKv_fqi-GKA5oJIGh0dHBzOi8vbG9uZ3Zhbi5uZXQvY2xvdWQtc2VydmVysQkfAnLhnznPXrkJsh2qS5Kgs6_4CQGYCwGiDAgqBgoE6cexAqoMAggB2gweCgsQ4O3FyJDKou74ARICAQNAAUoCAhlSBQMHCAkp6AwGmg0BVKoNAlZOuA0ByA0BghQHCAESA3Zwc4gUAcgUzdjB0fvlnKYj0BUB-BYBgBcBkhcJEgcIARADGMUDuhcEOAFIAeAXAsoYAhAA0BgBiBkBqBkBshkBFQ&ae=2&aspm=1&co=1&ase=2&gclid=CjwKCAiAm-67BhBlEiwAEVftNiGbq_zcppwmShbtT7jVVnCG4Wv5kHo8fAd2lF7Et37WaCe--6PUvxoCrgYQAvD_BwE&nis=6&ved=2ahUKEwix-vDqi-GKAxWPTmwGHc5SG8UQ0Qx6BAgXEAM&cid=CAASFeRoMJk2cr8sqqcY8JJHEvE5eTUbRg&dblrd=1&sival=AF15MEBBCIIwkOwCod4ATvmzq46Y7tsXbRZGQzaf3AYmCKimYA8nkETPQMApH9qY8qz4uCG7qRAMq0icpIscUKCRsO03Sg0XpQypkh_apfjiwwuZ78b5GK1JbdKAGlzI7wxPi15SBWYrtlZpQyqylfOvuxmAarYLlVk08u-l0nJU7mEE691qmPE&sig=AOD64_0rh88FXQdya2gI6rsve47QXP6D9g&adurl=https://longvan.net/cloud-server%3Fgad_source%3D1
+Visited: 2025-01-06 12:26:47.921904
+--------------------------------------------------
+Title: VPS Hosting | Lưu trữ NVMe, CPU AMD Ryzen, Trợ lý AI
+URL: https://www.hostinger.com/vn/vps?utm_campaign=Generic-Hosting|NT:Se|LO:VN&utm_medium=ppc&gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNiDpmV-7ElXNwnEhgl0V2EIkU8CsSaS1sezd77rD4CkYxUpv33YfqBoCi7EQAvD_BwE
+Visited: 2025-01-06 12:26:38.581582
+--------------------------------------------------
+Title: VPS Hosting | Lưu trữ NVMe, CPU AMD Ryzen, Trợ lý AI
+URL: https://www.google.com/aclk?sa=l&ai=DChcSEwiKv_fqi-GKAxWdo2YCHcWHH5QYABADGgJzbQ&ae=2&aspm=1&co=1&ase=2&gclid=CjwKCAiAm-67BhBlEiwAEVftNiDpmV-7ElXNwnEhgl0V2EIkU8CsSaS1sezd77rD4CkYxUpv33YfqBoCi7EQAvD_BwE&sig=AOD64_3MvEpTrQLV2iyHwcN72sfz-3pkAg&q&nis=6&adurl&ved=2ahUKEwix-vDqi-GKAxWPTmwGHc5SG8UQ0Qx6BAgsEAE
+Visited: 2025-01-06 12:26:36.065277
+--------------------------------------------------
+Title: VPS Hosting | Lưu trữ NVMe, CPU AMD Ryzen, Trợ lý AI
+URL: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cw0S5_ct7Z8rMAp3HmsMPxY_-oAnA7tXFeo2S7ujxEr-t0BgIABABKARgwQWgAZb0y5kDyAEBqQIdQKtDNWCxPsgD2CCqBF9P0F01EumdAbFTCUCXT4ToOHOPtMM9bmovs0v0OF5uvZQSX0rACNxNtAc2xZPLRcpr3Ol9-_mUjxlh-3PdF_i8ihYcUKPdAYtO_5Zj_vOhaq5gxxrHk904DSmkIXkjFcAEhsm5yuMEiAWQuMiYBqAGZoAH776tggGIBwGQBwGoB-u4sQKoB6a-G6gHvK2xAqgHuauxAqgH6LWxAqgHuZqxAqgH89EbqAfu0huoB_-csQKoB8rcG6gHkq-xAqgHu6SxAqgH2LOxAqgH2KaxAqgHyqmxAqgHorqxAqgH6rqxAqgHmbWxAqgH3rWxAqgH26qxAqgH0KqxAqgH6rGxAqgHlLixAqgH7LixAqgHvrexAqgHlsmxAqgHg8OxAqgHlcmxAqgHzsqxAqgHlsmxAqgHl8mxAqgH38mxAqgHicqxAqgHvsmxAqgHmcmxAqAI2LuxBLAIAdIILRACMgSD4IAOOhDC8YCAgIAEgsCAwIWggIACQgEESNHs8ypQCViKv_fqi-GKA5oJIGh0dHBzOi8vd3d3Lmhvc3Rpbmdlci5jb20vdm4vdnBzsQkjYXlBtbca67kJ0IbI0P0DyAX4CQGYCwGiDAgqBgoE6cexAqoMAggB2gwdCgoQwJyuyJGHqd9rEgIBA0ABSgICGVIFAwcICSnoDAaqDQJWTrgNAcgNAYIUBwgCEgN2cHOIFAPIFLrxyd-frPi-J9AVAZgWAfgWAYAXAZIXCRIHCAEQAxjFA7oXBDgBSAHgFwLKGAIQANAYAYgZAagZAbIZARU&ae=2&aspm=1&co=1&ase=2&gclid=CjwKCAiAm-67BhBlEiwAEVftNiDpmV-7ElXNwnEhgl0V2EIkU8CsSaS1sezd77rD4CkYxUpv33YfqBoCi7EQAvD_BwE&nis=6&ved=2ahUKEwix-vDqi-GKAxWPTmwGHc5SG8UQ0Qx6BAgsEAE&cid=CAASFeRoMJk2cr8sqqcY8JJHEvE5eTUbRg&dblrd=1&sival=AF15MECs46XvBM9n0SGJbVGZBaSpsK58HdhCJ-dyoNmQIHYQCwm3YDi2BMY4xJFK7vZKKLJuZ_i-3QE_xEr0CCDkNlji1xbliUQA2YYVmO9_R7jaCBGRu5K0FbUvjJMFpEPWHHKuK3uINlzlAWYWy-P767_eD7ZuWSTkLiIG_ye2GjVjdnUezx8&sig=AOD64_31tJZ0xEgaq48mnORdm0BMZ25qrQ&adurl=https://www.hostinger.com/vn/vps%3Futm_campaign%3DGeneric-Hosting%7CNT:Se%7CLO:VN%26utm_medium%3Dppc%26gad_source%3D1
+Visited: 2025-01-06 12:26:36.065277
+--------------------------------------------------
+Title: kinh doanh' - Tìm trên Google
+URL: https://www.google.com/search?q=kinh+doanh%27&oq=kinh+doanh%27&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE1MzBqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:25:46.000299
+--------------------------------------------------
+Title: Tin kinh doanh: Thị trường, tài chính, kinh tế, doanh nghiệp - VnExpress Kinh Doanh
+URL: https://vnexpress.net/kinh-doanh
+Visited: 2025-01-06 12:25:43.709815
+--------------------------------------------------
+Title: ChatGPT
+URL: https://chatgpt.com/c/677bcba8-2e04-8010-becf-5ca418a7aab5
+Visited: 2025-01-06 12:25:10.267340
+--------------------------------------------------
+Title: ChatGPT
+URL: https://chatgpt.com/
+Visited: 2025-01-06 12:25:03.896135
+--------------------------------------------------
+Title: THƯƠNG MẠI ĐIỆN TỬ - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1mpU1oaoMkuRu3MV0-e_leLlr6d0vkPL6IoM3bySWvx4/edit?gid=0#gid=0
+Visited: 2025-01-06 12:17:46.186502
+--------------------------------------------------
+Title: THƯƠNG MẠI ĐIỆN TỬ - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1mpU1oaoMkuRu3MV0-e_leLlr6d0vkPL6IoM3bySWvx4/edit
+Visited: 2025-01-06 12:17:44.929894
+--------------------------------------------------
+Title: THƯƠNG MẠI ĐIỆN TỬ - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1mpU1oaoMkuRu3MV0-e_leLlr6d0vkPL6IoM3bySWvx4/edit?usp=sharing
+Visited: 2025-01-06 12:17:44.917892
+--------------------------------------------------
+Title: unikey - Tìm trên Google
+URL: https://www.google.com/search?q=unikey&oq=unikey&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDINCAEQABiDARixAxiABDIKCAIQABixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIzNTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 12:05:48.488819
+--------------------------------------------------
+Title: 2.1.5. TKB _ HK2_(24-25)__KHÓA 23DN2- 23LC10DN2.pdf
+URL: file:///C:/Users/cafeh/Documents/Zalo%20Received%20Files/2.1.5.%20TKB%20_%20HK2_(24-25)__KH%C3%93A%2023DN2-%2023LC10DN2.pdf
+Visited: 2025-01-06 11:37:23.904216
+--------------------------------------------------
+Title: HUTE.23DN.eCOM - Tìm trên Google
+URL: https://www.google.com/search?q=HUTE.23DN.eCOM&oq=HUTE.23DN.eCOM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+Visited: 2025-01-06 11:11:17.206072
+--------------------------------------------------
+Title: TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/place/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI/@10.9952895,106.8474118,19z/data=!3m1!4b1!4m6!3m5!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!8m2!3d10.9952882!4d106.8480555!16s%2Fg%2F11q8wx2y2w?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:50:07.375928
+--------------------------------------------------
+Title: TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/place/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI/@10.9953683,106.8480837,19.75z/data=!4m6!3m5!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!8m2!3d10.9952882!4d106.8480555!16s%2Fg%2F11q8wx2y2w?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:50:06.671170
+--------------------------------------------------
+Title: TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/search/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+1384+%C4%90.+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai+76000/@10.9953683,106.8480837,19.75z?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:50:05.443573
+--------------------------------------------------
+Title: TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI, 1384 Đ. Đồng Khởi, Trảng Dài, Biên Hòa, Đồng Nai 76000 - Google Maps
+URL: https://www.google.com/maps/@10.9953683,106.8480837,19.75z?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:50:04.254180
+--------------------------------------------------
+Title: Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9953683,106.8480837,19.75z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:58.839421
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9952907,106.8480624,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:58.199853
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9951735,106.8481395,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:57.138640
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9952138,106.848219,20.29z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:56.635877
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9949372,106.8493195,19.04z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:55.894271
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9988866,106.8509144,17.54z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:54.882576
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9874312,106.8470879,14.25z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:54.012455
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.9895245,106.8962085,12.5z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:53.371571
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7483056,106.6627386,12.5z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:51.060898
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7381476,106.6762333,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:47.799043
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7379981,106.6761816,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:47.385556
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7382422,106.6760312,19.04z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:44.577828
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7363822,106.6770199,18.04z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:43.925172
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7663552,106.7219885,15.5z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:37.830503
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7482508,106.6830227,15.5z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:32.314386
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.7471777,106.6910502,14.75z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:18.879215
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir/10.7380736,106.676224/TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/@10.8308935,106.6969608,13.5z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f!2m2!1d106.8480555!2d10.9952882?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+Visited: 2024-12-27 12:49:18.059401
+--------------------------------------------------
+Title: Vị trí của bạn đến TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI - Google Maps
+URL: https://www.google.com/maps/dir//TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI,+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi,+Tr%E1%BA%A3ng+D%C3%A0i,+Bi%C3%AAn+H%C3%B2a,+%C4%90%E1%BB%93ng+Nai/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3174dd2e1de43235:0x55a46d9b55cb057f?sa=X&ved=1t:3061&ictx=111
+Visited: 2024-12-27 12:49:14.521758
+--------------------------------------------------
+Title: TIỆM BÁNH BÀ MẬP - TRẢNG DÀI - BIÊN HÒA - ĐỒNG NAI, Đường Đồng Khởi, Trảng Dài, Biên Hòa, Đồng Nai - Tìm trên Google
+URL: https://www.google.com/search?q=TI%E1%BB%86M+B%C3%81NH+B%C3%80+M%E1%BA%ACP+-+TR%E1%BA%A2NG+D%C3%80I+-+BI%C3%8AN+H%C3%92A+-+%C4%90%E1%BB%92NG+NAI%2C+%C4%90%C6%B0%E1%BB%9Dng+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi%2C+Tr%E1%BA%A3ng+D%C3%A0i%2C+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai&sca_esv=82163def23af9544&ei=PqJuZ7HHD6-SseMPht2iqA0&oq=B%C3%A1nh+b%C3%A0+m%E1%BA%ADp+tr%E1%BA%A3ng+da&gs_lp=Egxnd3Mtd2l6LXNlcnAiGkLDoW5oIGLDoCBt4bqtcCB0cuG6o25nIGRhKgIIADICECYyBRAAGO8FMggQABiABBiiBDIIEAAYogQYiQUyCBAAGKIEGIkFMgUQABjvBUjzFVCmBVjeC3ACeACQAQCYAWSgAb8BqgEDMS4xuAEByAEA-AEBmAIEoALNAcICCxAAGLADGKIEGIkFwgIIEAAYsAMY7wWYAwCIBgGQBgWSBwMzLjGgB7wL&sclient=gws-wiz-serp
+Visited: 2024-12-27 12:49:06.351661
+--------------------------------------------------
+Title: Bánh bà mập trảng dai - Tìm trên Google
+URL: https://www.google.com/search?q=B%C3%A1nh+b%C3%A0+m%E1%BA%ADp+tr%E1%BA%A3ng+dai&sca_esv=82163def23af9544&ei=OKJuZ9mpCNSvseMP1aTnmQE&ved=0ahUKEwjZpZSW_seKAxXUV2wGHVXSORMQ4dUDCA8&uact=5&oq=B%C3%A1nh+b%C3%A0+m%E1%BA%ADp+tr%E1%BA%A3ng+dai&gs_lp=Egxnd3Mtd2l6LXNlcnAiG0LDoW5oIGLDoCBt4bqtcCB0cuG6o25nIGRhaTICECYyCBAAGKIEGIkFMgUQABjvBTIIEAAYogQYiQUyCBAAGIAEGKIEMggQABiiBBiJBUjnG1CKAViLGnAGeACQAQGYAZMBoAHhDKoBBDIuMTK4AQPIAQD4AQGYAhOgApgMwgIJEAAYsAMYCBgewgIIEAAYsAMY7wXCAgYQABgWGB6YAwCIBgGQBgqSBwQ3LjEyoAecfA&sclient=gws-wiz-serp
+Visited: 2024-12-27 12:49:02.078580
+--------------------------------------------------
+Title: Bánh bà mập - Tìm trên Google
+URL: https://www.google.com/search?q=B%C3%A1nh+b%C3%A0+m%E1%BA%ADp&sca_esv=82163def23af9544&ei=LaJuZ9jeHsmNseMP5pPDmA8&ved=0ahUKEwiYqYuR_seKAxXJRmwGHebJEPMQ4dUDCA8&uact=5&oq=B%C3%A1nh+b%C3%A0+m%E1%BA%ADp&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0LDoW5oIGLDoCBt4bqtcDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yAhAmMgIQJkjPHVAAWIMccAx4AJABCZgBrAGgAZ4YqgEENC4yM7gBA8gBAPgBAZgCHqACuBLCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIEEAAYA8ICDhAAGIAEGLEDGIMBGIoFwgIIEAAYgAQYsQPCAgQQLhgDwgIFEAAYgATCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjHARivAcICEBAuGIAEGEMYxwEYigUYrwHCAhAQLhiABBixAxhDGMkDGIoFwgILEAAYgAQYkgMYigXCAggQLhiABBjUAsICHxAuGIAEGEMYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQHCAgUQLhiABMICCxAuGIAEGLEDGMkDwgIaEC4YgAQYxwEYrwEYlwUY3AQY3gQY4ATYAQHCAhQQLhiABBixAxiDARjHARiKBRivAcICCBAuGIAEGLEDwgIHEC4YgAQYCsICBxAAGIAEGArCAg0QLhiABBjHARgKGK8BwgIWEC4YgAQYChiXBRjcBBjeBBjfBNgBAcICCBAAGAgYDRgewgIFEAAY7wXCAggQABiiBBiJBcICCBAAGIAEGKIEmAMAugYGCAEQARgUkgcFMTMuMTegB5HhAg&sclient=gws-wiz-serp
+Visited: 2024-12-27 12:48:55.818593
+--------------------------------------------------
+Title: tiệm bánh bà mập - Tìm trên Google
+URL: https://www.google.com/search?q=ti%E1%BB%87m+b%C3%A1nh+b%C3%A0+m%E1%BA%ADp&oq=ti%E1%BB%87m+b%C3%A1nh+b%C3%A0+m%E1%BA%ADp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDI4MjVqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-27 12:48:45.352104
+--------------------------------------------------
+Title: google map - Tìm trên Google
+URL: https://www.google.com/search?q=google+map&oq=google+map&gs_lcrp=EgZjaHJvbWUyEggAEEUYORiDARixAxjJAxiABDIKCAEQABiSAxiABDINCAIQABiSAxiABBiKBTIHCAMQABiABDINCAQQABiDARixAxiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEINTg3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-27 12:48:39.786892
+--------------------------------------------------
+Title: Google Maps
+URL: https://www.google.com/maps
+Visited: 2024-12-27 12:48:37.957378
+--------------------------------------------------
+Title: Google Maps
+URL: https://maps.google.com/
+Visited: 2024-12-27 12:48:37.382958
+--------------------------------------------------
+Title: Google Maps
+URL: https://maps.google.com/maps
+Visited: 2024-12-27 12:48:37.382958
+--------------------------------------------------
+Title: Google Meet
+URL: https://meet.google.com/
+Visited: 2024-12-27 12:48:16.476859
+--------------------------------------------------
+Title: Google Meet
+URL: https://meet.google.com/landing
+Visited: 2024-12-27 12:48:16.476859
+--------------------------------------------------
+Title: Kiểm tra đạo văn - check đạo văn online phí bởi SmallSEOTools
+URL: https://smallseotools.com/vi/plagiarism-checker/
+Visited: 2024-12-27 12:46:33.696673
+--------------------------------------------------
+Title: 23810063-LeNguyenTuanKhanh.docx - Google Drive
+URL: https://drive.google.com/file/d/1UfUhf36-6gjYIKFn5GQe1imviqFdl6hJ/view
+Visited: 2024-12-27 12:45:39.610806
+--------------------------------------------------
+Title: 23810063-LeNguyenTuanKhanh.docx - Google Drive
+URL: https://drive.google.com/open?id=1UfUhf36-6gjYIKFn5GQe1imviqFdl6hJ&authuser=0
+Visited: 2024-12-27 12:45:39.253702
+--------------------------------------------------
+Title: 23810063-LeNguyenTuanKhanh.docx - Google Drive
+URL: https://drive.google.com/file/d/1UfUhf36-6gjYIKFn5GQe1imviqFdl6hJ/view?usp=drive_open
+Visited: 2024-12-27 12:45:39.253702
+--------------------------------------------------
+Title: 23810064_NGOQUOCKHANH.docx - Google Drive
+URL: https://drive.google.com/file/d/12Jg3VQikqwJpII09u4Z5Bsj2e07-af3c/view
+Visited: 2024-12-27 12:45:31.927657
+--------------------------------------------------
+Title: 23810064_NGOQUOCKHANH.docx - Google Drive
+URL: https://drive.google.com/open?id=12Jg3VQikqwJpII09u4Z5Bsj2e07-af3c&authuser=0
+Visited: 2024-12-27 12:45:29.962890
+--------------------------------------------------
+Title: 23810064_NGOQUOCKHANH.docx - Google Drive
+URL: https://drive.google.com/file/d/12Jg3VQikqwJpII09u4Z5Bsj2e07-af3c/view?usp=drive_open
+Visited: 2024-12-27 12:45:29.962890
+--------------------------------------------------
+Title: kiem tra đạo văn - Tìm trên Google
+URL: https://www.google.com/search?q=kiem+tra+%C4%91%E1%BA%A1o+v%C4%83n&oq=kiem+tra+%C4%91%E1%BA%A1o+v%C4%83n&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgcIAhAAGIAEMgcIAxAAGIAEMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHtIBCDI5NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-27 12:44:28.710148
+--------------------------------------------------
+Title: BaiThiCuoiKy - Google Drive
+URL: https://drive.google.com/drive/folders/13GYw-5qiEmJlpnu0Dox0_s9MzhN2nwkp
+Visited: 2024-12-27 12:44:10.942495
+--------------------------------------------------
+Title: 23LC10DN2 - Google Drive
+URL: https://drive.google.com/drive/folders/1CX58QiM6LXRhHyQOEnlFQc1n4SIpKV6_
+Visited: 2024-12-27 12:44:07.292636
+--------------------------------------------------
+Title: Được chia sẻ với tôi - Google Drive
+URL: https://drive.google.com/drive/shared-with-me
+Visited: 2024-12-27 12:44:05.941763
+--------------------------------------------------
+Title: BaiThiCuoiKy - Google Drive
+URL: https://drive.google.com/drive/folders/13GYw-5qiEmJlpnu0Dox0_s9MzhN2nwkp?usp=sharing
+Visited: 2024-12-27 12:43:43.507315
+--------------------------------------------------
+Title: 23810062_PhamTranGiaKhang.docx - Google Drive
+URL: https://drive.google.com/file/d/1RgKYSb2JBVWN5qwIXpWn5N4V2cCUE0Qg/view
+Visited: 2024-12-27 12:40:52.194695
+--------------------------------------------------
+Title: 23810062_PhamTranGiaKhang.docx - Google Drive
+URL: https://drive.google.com/open?id=1RgKYSb2JBVWN5qwIXpWn5N4V2cCUE0Qg&authuser=0
+Visited: 2024-12-27 12:40:49.694109
+--------------------------------------------------
+Title: 23810062_PhamTranGiaKhang.docx - Google Drive
+URL: https://drive.google.com/file/d/1RgKYSb2JBVWN5qwIXpWn5N4V2cCUE0Qg/view?usp=drive_open
+Visited: 2024-12-27 12:40:49.694109
+--------------------------------------------------
+Title: google dich - Tìm trên Google
+URL: https://www.google.com/search?q=google+dich&oq=google&gs_lcrp=EgZjaHJvbWUqBggBEAAYAzIGCAAQRRg5MgYIARAAGAMyEAgCEAAYgwEYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-27 12:12:29.104909
+--------------------------------------------------
+Title: DSDiemDanh_2417DBMS330284_03.xlsx - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1QiYiIrka1hemYjrrvMd9pJtLsSsiT4B_/edit?gid=10615632#gid=10615632
+Visited: 2024-12-27 12:07:15.785452
+--------------------------------------------------
+Title: DSDiemDanh_2417DBMS330284_03.xlsx - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1QiYiIrka1hemYjrrvMd9pJtLsSsiT4B_/edit?rtpof=true&gid=10615632#gid=10615632
+Visited: 2024-12-27 12:07:14.776343
+--------------------------------------------------
+Title: DSDiemDanh_2417DBMS330284_03.xlsx - Google Trang tính
+URL: https://docs.google.com/spreadsheets/d/1QiYiIrka1hemYjrrvMd9pJtLsSsiT4B_/edit?rtpof=true
+Visited: 2024-12-27 12:07:14.273269
+--------------------------------------------------
+Title: Log in to Roblox
+URL: https://www.roblox.com/login
+Visited: 2024-12-26 15:31:15.257828
+--------------------------------------------------
+Title: Roblox
+URL: https://www.roblox.com/vi
+Visited: 2024-12-26 15:31:13.470559
+--------------------------------------------------
+Title: ro - Tìm trên Google
+URL: https://www.google.com/search?q=ro&oq=ro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhiDARixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIGCAQQLhgDMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxAFGEDSAQc0MjFqMGo3qAIHsAIB&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-26 15:31:12.610679
+--------------------------------------------------
+Title: Xem phim Siêu Thú Cuồng Nộ-Rampage (2018) [Full HD-Vietsub+Thuyết minh]
+URL: http://www.phimmoi.net/phim/sieu-thu-cuong-no-6374/xem-phim.html
+Visited: 2024-12-26 15:30:42.219510
+--------------------------------------------------
+Title: nhasachtinhhoc
+URL: http://nhasachtinhoc.blogspot.com/2018/09/chia-se-khoa-hoc-hacker-mu-trang-aeh.html
+Visited: 2024-12-26 15:30:42.216723
+--------------------------------------------------
+Title: Log in to Roblox
+URL: https://www.roblox.com/login
+Visited: 2024-12-26 15:31:15.257828
+--------------------------------------------------
+Title: Roblox
+URL: https://www.roblox.com/vi
+Visited: 2024-12-26 15:31:13.470559
+--------------------------------------------------
+Title: ro - Tìm trên Google
+URL: https://www.google.com/search?q=ro&oq=ro&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhiDARixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIGCAQQLhgDMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxAFGEDSAQc0MjFqMGo3qAIHsAIB&sourceid=chrome&ie=UTF-8
+Visited: 2024-12-26 15:31:12.610679
+--------------------------------------------------
+Title: Xem phim Siêu Thú Cuồng Nộ-Rampage (2018) [Full HD-Vietsub+Thuyết minh]
+URL: http://www.phimmoi.net/phim/sieu-thu-cuong-no-6374/xem-phim.html
+Visited: 2024-12-26 15:30:42.219510
+--------------------------------------------------
+Title: nhasachtinhhoc
+URL: http://nhasachtinhoc.blogspot.com/2018/09/chia-se-khoa-hoc-hacker-mu-trang-aeh.html
+Visited: 2024-12-26 15:30:42.216723
+--------------------------------------------------
+
+=== BOOKMARKS ===
+Name: LinhLe Shop - Shop phần mềm bản quyền giá rẻ
+URL: https://shop.linhle.dev/
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: MercyHacks - Generate Cursor AI Crack Key | Free AI Key Generator
+URL: https://mercyhacks.com/hacks/cursorai.html
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: (421) Quy Trình REUP Video Hoạt Hình Từ Trung Quốc Sang Việt Nam | NDGroup Việt Nam - YouTube
+URL: https://www.youtube.com/watch?v=ez0l0UxZrao
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: Source Code Server Game NRO Lậu - Theme Plus - Free Sharing Theme Template
+URL: https://www.theme.id.vn/2024/09/source-code-server-game-nro-lau.html
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: Thesieure.com - Bán thẻ game, Nạp game, Nạp điện thoại số 1
+URL: https://thesieure.com/
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: 抖音-记录美好生活
+URL: https://www.douyin.com/
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心
+URL: https://www-ixigua-com.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=sc&wid_try=1
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: Trang 2 - Free Shoot Sound Effects Download - Pixabay
+URL: https://pixabay.com/vi/sound-effects/search/shoot/?pagi=2
+Added: 2025-01-13 21:28:14.026153
+--------------------------------------------------
+Name: TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP.HCM
+URL: https://fhqx.hcmute.edu.vn/
+Added: 2025-01-13 21:28:14.027664
+--------------------------------------------------
+Name: Home | UTEx
+URL: https://utexlms.hcmute.edu.vn/
+Added: 2025-01-13 21:28:14.027664
+--------------------------------------------------
+Name: nhasachtinhhoc
+URL: http://nhasachtinhoc.blogspot.com/2018/09/chia-se-khoa-hoc-hacker-mu-trang-aeh.html
+Added: 2025-01-13 21:28:14.028677
+--------------------------------------------------
+Name: Xem phim Siêu Thú Cuồng Nộ-Rampage (2018) [Full HD-Vietsub+Thuyết minh]
+URL: http://www.phimmoi.net/phim/sieu-thu-cuong-no-6374/xem-phim.html
+Added: 2025-01-13 21:28:14.028677
+--------------------------------------------------
+Name: nhasachtinhhoc
+URL: http://nhasachtinhoc.blogspot.com/2018/09/chia-se-khoa-hoc-hacker-mu-trang-aeh.html
+Added: 2025-01-13 21:28:14.028677
+--------------------------------------------------
+Name: Xem phim Siêu Thú Cuồng Nộ-Rampage (2018) [Full HD-Vietsub+Thuyết minh]
+URL: http://www.phimmoi.net/phim/sieu-thu-cuong-no-6374/xem-phim.html
+Added: 2025-01-13 21:28:14.028677
+--------------------------------------------------
+
+=== COOKIES ===
+
+=== CREDIT CARDS ===
