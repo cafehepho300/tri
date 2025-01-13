@@ -1,0 +1,2289 @@
+=== CHROME DATA EXTRACTION ===
+
+=== PASSWORDS & AUTOFILL DATA ===
+URL: Autofill Data
+Username Field: N/A
+Username: :rc:
+Password Field: N/A
+Password: tri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: DBName
+Password Field: N/A
+Password: d04ptgkTV
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: FileName
+Password Field: N/A
+Password: MainMaster.master
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.EmailAddress
+Password Field: N/A
+Password: 23810062@student.hcmute.edu.vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.FirstName
+Password Field: N/A
+Password: Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.LastName
+Password Field: N/A
+Password: eCOM
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.UserID
+Password Field: N/A
+Password: d04ptgk
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: Input.ValidationText
+Password Field: N/A
+Password: 727fay
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: PostForm[name]
+Password Field: N/A
+Password: Guide to Making NPCs Move to Target Points in Roblox Studio
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: SiteTitle
+Password Field: N/A
+Password: d04ptgk 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: SubDomain
+Password Field: N/A
+Password: d04ptgk
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ValidationCode
+Password Field: N/A
+Password: 1867665616
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: 123123
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Ku Bao Store
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Nguyen Kim Bao
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Nguyễn kim bảo
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountName
+Password Field: N/A
+Password: Phạm Trần Gia Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 0374737888
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 123123
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: 19038997010017
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: LKWDke18RL65vktCBEjM2feannBCT5Gzvb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: accountNumber
+Password Field: N/A
+Password: Số TK: 366885755 - Địa Chỉ Nạp :LKWDke18RL65vktCBEjM2feannBCT5Gzvb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: admin_email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: apiKeyName
+Password Field: N/A
+Password: Key
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: cfctest-locked-org-picker
+Password Field: N/A
+Password: No organization
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: chat_id_telegram
+Password Field: N/A
+Password: -4739175447
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: cke_4424_textInput
+Password Field: N/A
+Password: www.rblxvn.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: code_part[]
+Password Field: N/A
+Password: T
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtDC
+Password Field: N/A
+Password: Biên Hòa
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtGhiChu
+Password Field: N/A
+Password: NGon
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtHoTenKH
+Password Field: N/A
+Password: Phạm Trần Gia Khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtMaKH
+Password Field: N/A
+Password: 23810062
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtSoDT
+Password Field: N/A
+Password: 0378222776
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ContentPlaceHolder1$txtTim
+Password Field: N/A
+Password: 23810062
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$ctl00$ctl00$txtSearch
+Password Field: N/A
+Password: clone 6
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: code game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: wordpress shop gake
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ctl00$txtSearch
+Password Field: N/A
+Password: wordpress shop game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: dbname
+Password Field: N/A
+Password: shoprobux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho340@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho420@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: emailConfirm
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: first_name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: 100 phút
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: 4 phút
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: flag
+Password Field: N/A
+Password: vn
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: h-domain-finder-header-input
+Password Field: N/A
+Password: roblox.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: hovaten
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho320@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho330@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho340@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho370@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho380
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho380@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho390@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho410@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: cafehepho420@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: identifier
+Password Field: N/A
+Password: nguyenduc5.his@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: input
+Password Field: N/A
+Password: https://www.ixigua.com/7352798587656339979?logTag=778748db044636656396
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: ip
+Password Field: N/A
+Password: 118.71.220.50
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: last_name
+Password Field: N/A
+Password: pham
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: log
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login_id
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: login_id
+Password Field: N/A
+Password: cafehepho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 1,000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 10 $
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 1000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 500 Gems - Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 80 Ngọc - Brawl Stars bảo hành
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 89
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 90
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: 98
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Android
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: App di động
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Apple
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Blox Fuit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Call Of Duty Mobile
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Console Gaming
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Free Fire
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: GAME
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: GPU & Màn hình
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Hackintosh
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Legend of League
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Level : 500 - 700 / No Life - Rod Of The Deps - Trident / IP GLOBAL
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Liên Quân Mobile
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Lập trình / CNTT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Multimedia
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Máy tính xách tay
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Ngoại ngữ
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Nạp gói 10$
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Overclocking & Cooling & Modding
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: PC Gaming
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Phần cứng chung
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Phần mềm
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 100
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 87
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 88
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 89
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 90
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Rate 91
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Server / NAS / Render Farm
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Small Form Factor PC
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Thiết bị ngoại vi & Phụ kiện & Mạng
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Top Up Game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Tư vấn cấu hình
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: TẾT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Vé Vàng - Clash Of Clans
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: Wild Rift
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: a
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: addGameProduct.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: anhquadeptrairoi10
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: bloxfruit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: buyGameService.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: checkscam
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: editOrderContent.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameOrders.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameProductAdd.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gameProducts.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: gia khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: loadDocumentContent.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: nạp game
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: processGameOrder.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: robux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: shop-bloxfruit.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: name
+Password Field: N/A
+Password: showBloxfruit.php
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: nameYourKey_1
+Password Field: N/A
+Password: key2
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: nameYourKey_3
+Password Field: N/A
+Password: key
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-group-picker-search
+Password Field: N/A
+Password: @KhangDve
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-group-picker-search
+Password Field: N/A
+Password: rb
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: @
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: @Khangdve_bot
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new-members-picker-search
+Password Field: N/A
+Password: rblxvn.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: bt
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: db_shopgame
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: scam_check_db
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: shopkhang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: shoprobux
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: new_db
+Password Field: N/A
+Password: voz
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: oauth_access[description]
+Password Field: N/A
+Password: tri
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: oauth_access[description]
+Password Field: N/A
+Password: tri2
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: organizationName
+Password Field: N/A
+Password: IT
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: password
+Password Field: N/A
+Password: 1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 20000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 87000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 90000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: price
+Password Field: N/A
+Password: 98000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: projectName
+Password Field: N/A
+Password: Default project
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: q
+Password Field: N/A
+Password: tank
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: query
+Password Field: N/A
+Password: Tet
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: query
+Password Field: N/A
+Password: Tết
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: rate
+Password Field: N/A
+Password: 25000
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: rate
+Password Field: N/A
+Password: 25500
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: request[subject]
+Password Field: N/A
+Password: Tôi bị trục trặc về vấn đề mạng 
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: s
+Password Field: N/A
+Password: Vietnam Payment Gateway for WooCommerce
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: tl_list-search-box
+Password Field: N/A
+Password: Tiếng An
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_telegram
+Password Field: N/A
+Password: 7015391783:AAG3q9o5JrNT16ruofM9IAQz752sUJvClVo
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_telegram
+Password Field: N/A
+Password: 7578908928:AAFNalfIqcNW1BT0KaVjn-2PvZqiebx1j4I
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: token_thesieure
+Password Field: N/A
+Password: 6e6eabb15faa3700d3e5795a2b12489a
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: uname
+Password Field: N/A
+Password: root
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: user
+Password Field: N/A
+Password: ca2pnt105s3r
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: user_name
+Password Field: N/A
+Password: khang
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: anhquadeptrairoi10
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafeheho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho300
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho320
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho330
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho340
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho360
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: cafehepho370
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: drabula2
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: lamlaicuocdoi_1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: leyensuingrit
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: weblog_title
+Password Field: N/A
+Password: SHOP ROBUX
+Type: Autofill Data
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: 123123
+Created: 2024-11-05 04:39:01.120424
+--------------------------------------------------
+URL: http://localhost:8000/register/
+Username Field: username
+Username: khang
+Password Field: password1
+Password: Son@91205
+Created: 2025-01-03 11:13:04.695201
+Times Used: 1
+--------------------------------------------------
+URL: http://localhost:8000/login/
+Username Field: username
+Username: admin
+Password Field: password
+Password: 123
+Created: 2025-01-03 11:05:27.365372
+Times Used: 2
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: 123123
+--------------------------------------------------
+URL: http://localhost:8000/register/
+Username Field: N/A
+Username: khang
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: http://localhost:8000/login/
+Username Field: N/A
+Username: admin
+Password Field: N/A
+Password: 123
+--------------------------------------------------
+URL: http://26.226.194.246/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: 123123
+--------------------------------------------------
+URL: http://localhost:8000/
+Username Field: N/A
+Username: khang
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: http://localhost:8000/
+Username Field: N/A
+Username: admin
+Password Field: N/A
+Password: 123
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: shipName
+Password Field: N/A
+Password: aaaa
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: admin
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: khang1
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: username
+Password Field: N/A
+Password: thuonglam2015
+Type: Autofill Data
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khanggame123
+Created: 1652-01-15 14:15:40.983000
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: username
+Username: Khangdiverter
+Password Field: password
+Password: khanggame123
+Created: 2017-12-06 23:16:15.557457
+Times Used: 1
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: u
+Username: khanggame321
+Password Field: p
+Password: khanggame
+Created: 2017-12-08 23:16:33.968575
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-03 11:57:10.393973
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:42:55.229352
+Times Used: 4
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: password
+Password: Son@91205
+Created: 2022-09-24 05:43:11.423013
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:28:35.113100
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: 
+Username: 0349634142
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-28 08:23:21.501000
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: IQ200Yaxua
+Password Field: password
+Password: Son@91205
+Created: 2019-12-04 03:59:40.292028
+Times Used: 3
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: 
+Username: cocakola2020
+Password Field: 
+Password: cocacola123456
+Created: 1652-02-10 04:26:18.371000
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khang123123
+Created: 1652-01-14 11:20:03.932000
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: pass
+Password: Son@9120514042003
+Created: 2021-11-05 09:27:30.699732
+Times Used: 2
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: txtUserNameDK
+Username: cafehepho330
+Password Field: txtPassDK
+Password: 1234
+Created: 2019-12-12 11:53:56.178297
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: phoneOrEmail
+Username: cafehepho300
+Password Field: password
+Password: Son@91205
+Created: 2022-02-23 12:20:26.839847
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-04 12:46:25.373511
+Times Used: 1
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: UserNameReg
+Username: cafehepho330
+Password Field: PasswordReg
+Password: khanggame123
+Created: 2019-12-20 10:13:19.691331
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: 
+Username: jvUsnyQw
+Password Field: 
+Password: 14042003
+Created: 2022-02-10 17:44:11.417406
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: khanggame123
+Created: 2020-02-03 04:19:37.539200
+Times Used: 1
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: username
+Username: gogo11
+Password Field: password
+Password: Son@91205
+Created: 2022-02-26 11:26:09.538402
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: Input_UsernameVal
+Username: cafehepho320@gmail.com
+Password Field: Input_PasswordVal
+Password: Son@91205
+Created: 2022-09-25 12:15:11.739913
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: 
+Username: 
+Password Field: password
+Password: khanggame123
+Created: 2019-07-03 04:32:54.478816
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: email
+Username: hellodanm@gmail.com
+Password Field: password
+Password: hellodanm
+Created: 2022-03-02 11:46:47.091475
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: cafehepho320@gmail.com
+Password Field: passwd
+Password: khang14042003
+Created: 2022-09-24 07:26:01.703531
+Times Used: 1
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: email
+Username: cafehepho350@gmail.com
+Password Field: pass
+Password: khanggame123
+Created: 2022-03-02 11:38:00.707325
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: beekoojeninep@outlook.jp
+Password Field: passwd
+Password: su5G8K88
+Created: 2022-09-25 13:17:37.237222
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: hellodanm1
+Password Field: password
+Password: ducdo234
+Created: 2022-02-20 13:41:34.475415
+Times Used: 2
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: 
+Username: cafehepho3000
+Password Field: 
+Password: khanggame123
+Created: 2025-01-13 21:44:38.336944
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: tuyxaunhungdccaihen
+Password Field: password
+Password: hoahuynh159357
+Created: 2024-08-01 03:20:57.747975
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: user_sign-up
+Username: Nguyên
+Password Field: pass_sign-up
+Password: thaonguyen20061106
+Created: 2020-03-13 14:20:55.019278
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho330
+Password Field: 
+Password: Son@91205
+Created: 1652-01-14 23:43:30.483000
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: 
+Username: phamthaonguyen206@gmail.com
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-27 14:51:16.051000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/
+Username Field: N/A
+Username: khanggame321
+Password Field: N/A
+Password: khanggame
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://lura.ph/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: N/A
+Username: 035 592 1887
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: N/A
+Username: 0349634142
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: IQ200Yaxua
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: cocakola2020
+Password Field: N/A
+Password: cocacola123456
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khang123123
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: Son@9120514042003
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: 1234
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: N/A
+Username: cuongsona@gmail.com
+Password Field: N/A
+Password: 1978Son@91205
+--------------------------------------------------
+URL: http://guntop40.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://remotedesktop.google.com/
+Username Field: N/A
+Username: jvUsnyQw
+Password Field: N/A
+Password: 14042003
+--------------------------------------------------
+URL: https://osu.ppy.sh/
+Username Field: N/A
+Username: cafehepho300
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://thesieure.com/
+Username Field: N/A
+Username: gogo11
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://www.gamehubplus.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://plarium.com/
+Username Field: N/A
+Username: 
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://discord.com/
+Username Field: N/A
+Username: hellodanm@gmail.com
+Password Field: N/A
+Password: hellodanm
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: cafehepho320@gmail.com
+Password Field: N/A
+Password: khang14042003
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: N/A
+Username: cafehepho350@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://login.live.com/
+Username Field: N/A
+Username: beekoojeninep@outlook.jp
+Password Field: N/A
+Password: su5G8K88
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: hellodanm1
+Password Field: N/A
+Password: ducdo234
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: N/A
+Username: cafehepho3000
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: N/A
+Username: tuyxaunhungdccaihen
+Password Field: N/A
+Password: hoahuynh159357
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: N/A
+Username: Nguyên
+Password Field: N/A
+Password: thaonguyen20061106
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho330
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: N/A
+Username: phamthaonguyen206@gmail.com
+Password Field: N/A
+Password: nguyen2006
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: 035 592 1887
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho300@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: Autofill Data
+Username Field: N/A
+Username: email
+Password Field: N/A
+Password: cafehepho350@gmail.com
+Type: Autofill Data
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: 
+Username: anhquadeptrairoi10
+Password Field: 
+Password: Son@91205
+Created: 2025-01-13 21:44:38.349171
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: android://UhbMtiAExFNPNceArXxYL07lKDceJ9QVHwVTMl3pzL5rNOxCM_X2QHA1gQU6v-owOXcnLReVhwTYm3cRKSpFaQ==@com.roblox.client/
+Username Field: N/A
+Username: anhquadeptrairoi10
+Password Field: N/A
+Password: Son@91205
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khanggame123
+Created: 1652-01-15 14:15:40.983000
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: username
+Username: Khangdiverter
+Password Field: password
+Password: khanggame123
+Created: 2017-12-06 23:16:15.557457
+Times Used: 1
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: u
+Username: khanggame321
+Password Field: p
+Password: khanggame
+Created: 2017-12-08 23:16:33.968575
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-03 11:57:10.393973
+--------------------------------------------------
+URL: https://www.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:42:55.229352
+Times Used: 4
+--------------------------------------------------
+URL: https://lura.ph/login
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: password
+Password: Son@91205
+Created: 2022-09-24 05:43:11.423013
+--------------------------------------------------
+URL: https://vi-vn.facebook.com/
+Username Field: reg_email__
+Username: 035 592 1887
+Password Field: reg_passwd__
+Password: khanggame123
+Created: 2019-07-04 23:28:35.113100
+--------------------------------------------------
+URL: android://8nU_nPBrnCyheLEVy91_DM6_BXL8J-ZkAvv4s1p53a0FEBnU1jUsdHRsoOMbnCAAYiVPi91n0e7I2c8P_jDZ0w==@vn.tiki.app.tikiandroid/
+Username Field: 
+Username: 0349634142
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-28 08:23:21.501000
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: IQ200Yaxua
+Password Field: password
+Password: Son@91205
+Created: 2019-12-04 03:59:40.292028
+Times Used: 3
+--------------------------------------------------
+URL: https://www.roblox.com/
+Username Field: 
+Username: cocakola2020
+Password Field: 
+Password: cocacola123456
+Created: 1652-02-10 04:26:18.371000
+--------------------------------------------------
+URL: android://tRyhnf6s1QekDWcOC7bS2LkQ_9JXbSq7_auPcDZeMuauZpRPj__xHnlcdM29vZiSBND2dwm0oX5BHr8GAsVzPQ==@com.vng.speedvn/
+Username Field: 
+Username: cafehepho300@gmail.com
+Password Field: 
+Password: khang123123
+Created: 1652-01-14 11:20:03.932000
+--------------------------------------------------
+URL: https://www.messenger.com/
+Username Field: email
+Username: cafehepho300@gmail.com
+Password Field: pass
+Password: Son@9120514042003
+Created: 2021-11-05 09:27:30.699732
+Times Used: 2
+--------------------------------------------------
+URL: https://vtcgame.vn/
+Username Field: txtUserNameDK
+Username: cafehepho330
+Password Field: txtPassDK
+Password: 1234
+Created: 2019-12-12 11:53:56.178297
+--------------------------------------------------
+URL: https://thesieure.com/account/login
+Username Field: phoneOrEmail
+Username: cafehepho300
+Password Field: password
+Password: Son@91205
+Created: 2022-02-23 12:20:26.839847
+--------------------------------------------------
+URL: https://www.facebook.com/banhbamap
+Username Field: email
+Username: cuongsona@gmail.com
+Password Field: pass
+Password: 1978Son@91205
+Created: 2017-12-04 12:46:25.373511
+Times Used: 1
+--------------------------------------------------
+URL: http://guntop40.com/tai-khoan/login
+Username Field: UserNameReg
+Username: cafehepho330
+Password Field: PasswordReg
+Password: khanggame123
+Created: 2019-12-20 10:13:19.691331
+--------------------------------------------------
+URL: https://remotedesktop.google.com/access/
+Username Field: 
+Username: jvUsnyQw
+Password Field: 
+Password: 14042003
+Created: 2022-02-10 17:44:11.417406
+--------------------------------------------------
+URL: https://osu.ppy.sh/beatmapsets
+Username Field: username
+Username: cafehepho300
+Password Field: password
+Password: khanggame123
+Created: 2020-02-03 04:19:37.539200
+Times Used: 1
+--------------------------------------------------
+URL: https://thesieure.com/account/register
+Username Field: username
+Username: gogo11
+Password Field: password
+Password: Son@91205
+Created: 2022-02-26 11:26:09.538402
+--------------------------------------------------
+URL: https://www.gamehubplus.com/geforce-now/login
+Username Field: Input_UsernameVal
+Username: cafehepho320@gmail.com
+Password Field: Input_PasswordVal
+Password: Son@91205
+Created: 2022-09-25 12:15:11.739913
+--------------------------------------------------
+URL: https://plarium.com/landings/en/vikings/seatrip_f033_prelp001
+Username Field: 
+Username: 
+Password Field: password
+Password: khanggame123
+Created: 2019-07-03 04:32:54.478816
+--------------------------------------------------
+URL: https://discord.com/login
+Username Field: email
+Username: hellodanm@gmail.com
+Password Field: password
+Password: hellodanm
+Created: 2022-03-02 11:46:47.091475
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: cafehepho320@gmail.com
+Password Field: passwd
+Password: khang14042003
+Created: 2022-09-24 07:26:01.703531
+Times Used: 1
+--------------------------------------------------
+URL: https://www.messenger.com/login/password/
+Username Field: email
+Username: cafehepho350@gmail.com
+Password Field: pass
+Password: khanggame123
+Created: 2022-03-02 11:38:00.707325
+--------------------------------------------------
+URL: https://login.live.com/login.srf
+Username Field: loginfmt
+Username: beekoojeninep@outlook.jp
+Password Field: passwd
+Password: su5G8K88
+Created: 2022-09-25 13:17:37.237222
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: hellodanm1
+Password Field: password
+Password: ducdo234
+Created: 2022-02-20 13:41:34.475415
+Times Used: 2
+--------------------------------------------------
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username Field: 
+Username: cafehepho3000
+Password Field: 
+Password: khanggame123
+Created: 2025-01-13 21:44:38.361332
+--------------------------------------------------
+URL: https://www.roblox.com/login
+Username Field: username
+Username: tuyxaunhungdccaihen
+Password Field: password
+Password: hoahuynh159357
+Created: 2024-08-01 03:20:57.747975
+--------------------------------------------------
+URL: https://tangthucac.design/
+Username Field: user_sign-up
+Username: Nguyên
+Password Field: pass_sign-up
+Password: thaonguyen20061106
+Created: 2020-03-13 14:20:55.019278
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: 
+Username: cafehepho330
+Password Field: 
+Password: Son@91205
+Created: 1652-01-14 23:43:30.483000
+--------------------------------------------------
+URL: android://rPmhGamtAvT9nai1E6GwKaCwBh4gmIRokMJqKijONcWZT4AHRuPnYug3OUyrHk3mnkFZU0BgS9VP-S-FkeOMtw==@com.shopee.vn/
+Username Field: 
+Username: phamthaonguyen206@gmail.com
+Password Field: 
+Password: nguyen2006
+Created: 1651-02-27 14:51:16.051000
+--------------------------------------------------
+URL: https://accounts.google.com/
+Username Field: N/A
+Username: cafehepho300@gmail.com
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://sso.garena.com/ui/register
+Username Field: N/A
+Username: Khangdiverter
+Password Field: N/A
+Password: khanggame123
+--------------------------------------------------
+URL: https://new.pay.zing.vn/login
+Username Field: N/A
