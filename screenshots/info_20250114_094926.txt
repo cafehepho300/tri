@@ -1,0 +1,8 @@
+=== SYSTEM INFORMATION ===
+Hostname: DESKTOP-3UEU6AA
+Local IP: 192.168.1.18
+Public IP: 115.75.243.214
+Country: Vietnam
+City: Đồng Nai Province
+ISP: VIETELxdsl
+Capture Time: 20250114_094926
