@@ -1,0 +1,8 @@
+=== SYSTEM INFORMATION ===
+Hostname: DESKTOP-VMMF0CU
+Local IP: 192.168.102.4
+Public IP: 1.53.159.65
+Country: Vietnam
+City: Ho Chi Minh City
+ISP: FPT Telecom Company
+Capture Time: 20250114_090454
