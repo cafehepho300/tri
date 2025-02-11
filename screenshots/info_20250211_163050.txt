@@ -1,0 +1,8 @@
+=== SYSTEM INFORMATION ===
+Hostname: DESKTOP-3UEU6AA
+Local IP: 192.168.1.18
+Public IP: 171.247.28.86
+Country: Vietnam
+City: Biên Hòa
+ISP: Viettel Corporation
+Capture Time: 20250211_163050
