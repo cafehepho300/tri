@@ -1,0 +1,8 @@
+=== SYSTEM INFORMATION ===
+Hostname: DESKTOP-14IH3E5
+Local IP: 192.168.1.8
+Public IP: 123.31.132.126
+Country: Vietnam
+City: Đồng Nai Province
+ISP: VietNam Post and Telecom Corporation
+Capture Time: 20250419_174500
