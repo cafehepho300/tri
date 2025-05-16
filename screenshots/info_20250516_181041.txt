@@ -1,0 +1,8 @@
+=== SYSTEM INFORMATION ===
+Hostname: DESKTOP-14IH3E5
+Local IP: 192.168.1.8
+Public IP: 113.188.128.14
+Country: Vietnam
+City: Quận Hai
+ISP: VNPT
+Capture Time: 20250516_181041
